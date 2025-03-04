@@ -1,0 +1,76 @@
+// server.js
+require("dotenv").config();
+const express = require("express");
+const http = require("http");
+const cors = require("cors");
+const { Server } = require("socket.io");
+const { startCronJob, updateCameraStatus } = require("./cronjob/scheduler");
+const cache = require("./cache");
+const { sequelize } = require("./db_connection"); // O usa tu módulo "db.js" si lo tienes
+const { checkSingleCamera } = require("./cronjob/cameraChecker"); // Importamos la función
+
+
+const PORT_FISCA = process.env.PORT_FISCA || 3000;
+
+const app = express();
+app.use(cors());
+app.use(express.json());
+
+// Ruta básica
+app.get("/", (req, res) => {
+  res.json({ message: "Backend de cámaras en tiempo real funcionando." });
+});
+
+// Crear el servidor HTTP a partir de Express
+const server = http.createServer(app);
+
+// Inicializar Socket.io
+const io = new Server(server, {
+  cors: { origin: "*" }
+});
+
+io.on("connection", (socket) => {
+  console.log(`Cliente conectado: ${socket.id}`);
+
+  // Cuando el cliente solicite la información, se envía lo que haya en la caché
+  socket.on("getCameraStatus", () => {
+    const data = cache.get("cameraStatus") || [];
+    socket.emit("cameraStatus", data);
+  });
+
+  /**
+   * Evento nuevo: "checkCamera"
+   * El cliente manda un IP (o un array de IPs) y pedimos verificación inmediata
+   */
+  socket.on("checkCamera", async (poste) => {
+    console.log(`Verificando camara con poste: ${poste}`);
+    // Verificamos la cámara
+    const result = await checkSingleCamera(poste);
+
+    // Enviamos la respuesta solo a ese cliente (puedes emitir a todos si prefieres)
+    socket.emit("cameraStatusSingle", result);
+  });
+
+  socket.on("disconnect", () => {
+    console.log(`Cliente desconectado: ${socket.id}`);
+  });
+});
+
+// Iniciar el cron job que actualiza el estado de las cámaras cada 5 minutos
+startCronJob(io);
+// Llamamos a updateCameraStatus() de inmediato al arrancar para tener datos listos
+updateCameraStatus().then((data) => {
+  //console.log("Estado inicial de cámaras cargado en la caché.");
+  // Emitimos a todos los sockets que se hayan conectado en este momento (opcional)
+  io.emit("cameraStatus", data);
+});
+
+// Sincronizar la base de datos (asegúrate de tener configurado sequelize en db_connection.js)
+sequelize.sync({ alter: true })
+  .then(() => console.log("Database is connected"))
+  .catch(err => console.error("Error connecting to the database:", err));
+
+// Iniciar el servidor HTTP
+server.listen(PORT_FISCA, () => {
+  console.log(`FISCA Server is running on port ${PORT_FISCA}`);
+});

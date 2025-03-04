@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Socket.io Test</title>
+  </head>
+  <body>
+    <h1>Test de Socket.io</h1>
+    <button id="btn-status">Obtener estado de cámaras</button>
+    <script src="https://cdn.socket.io/4.5.4/socket.io.min.js"></script>
+    <script>
+    // Ajusta la URL a la IP y puerto de tu servidor
+    const socket = io("http://192.168.30.57:3000", {
+      transports: ["websocket"] // Opcional, para forzar websocket
+    });
+
+     // Suponiendo que ya tienes un socket conectado
+    socket.on("cameraStatusSingle", (data) => {
+    console.log("Resultado verificado on-demand:", data);
+    });
+
+    socket.on("connect", () => {
+    console.log("Conectado con ID:", socket.id);
+    });
+
+    // Escuchamos la respuesta con el estado de las cámaras
+    socket.on("cameraStatus", (data) => {
+      console.log("Estado de cámaras recibido:", data);
+      console.log("Estado de cámaras: " + JSON.stringify(data, null, 2));
+    });
+
+    // Escuchamos errores o desconexiones
+    socket.on("disconnect", (reason) => {
+      console.log("Desconectado:", reason);
+    });
+
+    // Al hacer clic en el botón, solicitamos el estado de las cámaras
+    document.getElementById("btn-status").addEventListener("click", () => {
+      //socket.emit("getCameraStatus");
+      socket.emit("checkCameraByPoste", "340"); // IP a verificar
+    });
+  </script>
+  </body>
+</html>

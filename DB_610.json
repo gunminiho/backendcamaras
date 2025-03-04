@@ -1,0 +1,9122 @@
+[
+    {
+        "IP": "192.168.32.2",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 1
+    },
+    {
+        "IP": "192.168.32.10",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 2
+    },
+    {
+        "IP": "192.168.32.18",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 3
+    },
+    {
+        "IP": "192.168.32.26",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 4
+    },
+    {
+        "IP": "192.168.32.34",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 5
+    },
+    {
+        "IP": "192.168.32.42",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 6
+    },
+    {
+        "IP": "192.168.32.50",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 7
+    },
+    {
+        "IP": "192.168.32.58",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 8
+    },
+    {
+        "IP": "192.168.32.66",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 9
+    },
+    {
+        "IP": "192.168.32.74",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 11
+    },
+    {
+        "IP": "192.168.32.82",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 12
+    },
+    {
+        "IP": "192.168.32.90",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 13
+    },
+    {
+        "IP": "192.168.32.98",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 14
+    },
+    {
+        "IP": "192.168.32.106",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 15
+    },
+    {
+        "IP": "192.168.32.114",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 16
+    },
+    {
+        "IP": "192.168.32.122",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 17
+    },
+    {
+        "IP": "192.168.32.130",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 18
+    },
+    {
+        "IP": "192.168.32.138",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 19
+    },
+    {
+        "IP": "192.168.32.146",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 21
+    },
+    {
+        "IP": "192.168.32.154",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 22
+    },
+    {
+        "IP": "192.168.32.162",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 23
+    },
+    {
+        "IP": "192.168.32.170",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 24
+    },
+    {
+        "IP": "192.168.32.178",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 25
+    },
+    {
+        "IP": "192.168.32.186",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 27
+    },
+    {
+        "IP": "192.168.32.194",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 28
+    },
+    {
+        "IP": "192.168.32.202",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 29
+    },
+    {
+        "IP": "192.168.32.210",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 30
+    },
+    {
+        "IP": "192.168.32.218",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 31
+    },
+    {
+        "IP": "192.168.32.226",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 33
+    },
+    {
+        "IP": "192.168.32.234",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 34
+    },
+    {
+        "IP": "192.168.32.242",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 35
+    },
+    {
+        "IP": "192.168.32.250",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 36
+    },
+    {
+        "IP": "192.168.33.2",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 37
+    },
+    {
+        "IP": "192.168.33.10",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 38
+    },
+    {
+        "IP": "192.168.33.18",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 39
+    },
+    {
+        "IP": "192.168.33.26",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 40
+    },
+    {
+        "IP": "192.168.33.34",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 41
+    },
+    {
+        "IP": "192.168.33.42",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 43
+    },
+    {
+        "IP": "192.168.33.50",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 44
+    },
+    {
+        "IP": "192.168.33.58",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 45
+    },
+    {
+        "IP": "192.168.33.66",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 46
+    },
+    {
+        "IP": "192.168.33.74",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 47
+    },
+    {
+        "IP": "192.168.33.82",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 48
+    },
+    {
+        "IP": "192.168.33.90",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 49
+    },
+    {
+        "IP": "192.168.33.98",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 50
+    },
+    {
+        "IP": "192.168.33.106",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 51
+    },
+    {
+        "IP": "192.168.33.114",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 52
+    },
+    {
+        "IP": "192.168.33.122",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 53
+    },
+    {
+        "IP": "192.168.33.130",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 55
+    },
+    {
+        "IP": "192.168.33.138",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 56
+    },
+    {
+        "IP": "192.168.33.146",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 57
+    },
+    {
+        "IP": "192.168.33.154",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 58
+    },
+    {
+        "IP": "192.168.33.162",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 59
+    },
+    {
+        "IP": "192.168.33.170",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 60
+    },
+    {
+        "IP": "192.168.33.178",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 61
+    },
+    {
+        "IP": "192.168.33.186",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 62
+    },
+    {
+        "IP": "192.168.33.194",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 66
+    },
+    {
+        "IP": "192.168.33.202",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 67
+    },
+    {
+        "IP": "192.168.33.210",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 68
+    },
+    {
+        "IP": "192.168.33.218",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 69
+    },
+    {
+        "IP": "192.168.33.226",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 70
+    },
+    {
+        "IP": "192.168.33.234",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 71
+    },
+    {
+        "IP": "192.168.33.242",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 72
+    },
+    {
+        "IP": "192.168.33.250",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 73
+    },
+    {
+        "IP": "192.168.34.2",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 74
+    },
+    {
+        "IP": "192.168.34.10",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 76
+    },
+    {
+        "IP": "192.168.34.18",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 80
+    },
+    {
+        "IP": "192.168.34.26",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 81
+    },
+    {
+        "IP": "192.168.34.34",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 82
+    },
+    {
+        "IP": "192.168.34.42",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 83
+    },
+    {
+        "IP": "192.168.34.50",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 85
+    },
+    {
+        "IP": "192.168.34.58",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 86
+    },
+    {
+        "IP": "192.168.34.66",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 87
+    },
+    {
+        "IP": "192.168.34.74",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 88
+    },
+    {
+        "IP": "192.168.34.82",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 89
+    },
+    {
+        "IP": "192.168.34.90",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 90
+    },
+    {
+        "IP": "192.168.34.98",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 91
+    },
+    {
+        "IP": "192.168.34.106",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 92
+    },
+    {
+        "IP": "192.168.34.114",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 93
+    },
+    {
+        "IP": "192.168.34.122",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 94
+    },
+    {
+        "IP": "192.168.34.130",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 95
+    },
+    {
+        "IP": "192.168.34.138",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 96
+    },
+    {
+        "IP": "192.168.34.146",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 97
+    },
+    {
+        "IP": "192.168.34.154",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 98
+    },
+    {
+        "IP": "192.168.34.162",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 99
+    },
+    {
+        "IP": "192.168.34.170",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 101
+    },
+    {
+        "IP": "192.168.34.178",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 102
+    },
+    {
+        "IP": "192.168.34.186",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 103
+    },
+    {
+        "IP": "192.168.34.194",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 105
+    },
+    {
+        "IP": "192.168.34.202",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 106
+    },
+    {
+        "IP": "192.168.34.210",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 107
+    },
+    {
+        "IP": "192.168.34.218",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 108
+    },
+    {
+        "IP": "192.168.34.226",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 109
+    },
+    {
+        "IP": "192.168.34.234",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 110
+    },
+    {
+        "IP": "192.168.34.242",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 111
+    },
+    {
+        "IP": "192.168.34.250",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 112
+    },
+    {
+        "IP": "192.168.35.2",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 113
+    },
+    {
+        "IP": "192.168.35.10",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 114
+    },
+    {
+        "IP": "192.168.35.18",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 115
+    },
+    {
+        "IP": "192.168.35.26",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 116
+    },
+    {
+        "IP": "192.168.35.34",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 117
+    },
+    {
+        "IP": "192.168.35.42",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 118
+    },
+    {
+        "IP": "192.168.35.50",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 119
+    },
+    {
+        "IP": "192.168.35.58",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 120
+    },
+    {
+        "IP": "192.168.35.66",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 121
+    },
+    {
+        "IP": "192.168.35.74",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 122
+    },
+    {
+        "IP": "192.168.35.82",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 123
+    },
+    {
+        "IP": "192.168.35.90",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 124
+    },
+    {
+        "IP": "192.168.35.98",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 125
+    },
+    {
+        "IP": "192.168.35.106",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 126
+    },
+    {
+        "IP": "192.168.35.114",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 127
+    },
+    {
+        "IP": "192.168.35.122",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 128
+    },
+    {
+        "IP": "192.168.35.130",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 129
+    },
+    {
+        "IP": "192.168.35.138",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 130
+    },
+    {
+        "IP": "192.168.35.146",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 131
+    },
+    {
+        "IP": "192.168.35.154",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 132
+    },
+    {
+        "IP": "192.168.35.162",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 133
+    },
+    {
+        "IP": "192.168.35.170",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 134
+    },
+    {
+        "IP": "192.168.35.178",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 135
+    },
+    {
+        "IP": "192.168.35.186",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 136
+    },
+    {
+        "IP": "192.168.35.194",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 137
+    },
+    {
+        "IP": "192.168.35.202",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 138
+    },
+    {
+        "IP": "192.168.35.210",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 139
+    },
+    {
+        "IP": "192.168.35.218",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 140
+    },
+    {
+        "IP": "192.168.35.226",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 141
+    },
+    {
+        "IP": "192.168.35.234",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 142
+    },
+    {
+        "IP": "192.168.35.242",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 143
+    },
+    {
+        "IP": "192.168.35.250",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 144
+    },
+    {
+        "IP": "192.168.36.2",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 145
+    },
+    {
+        "IP": "192.168.36.10",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 146
+    },
+    {
+        "IP": "192.168.36.18",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 147
+    },
+    {
+        "IP": "192.168.36.26",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 148
+    },
+    {
+        "IP": "192.168.36.34",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 149
+    },
+    {
+        "IP": "192.168.36.42",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 150
+    },
+    {
+        "IP": "192.168.36.50",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 151
+    },
+    {
+        "IP": "192.168.36.58",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 152
+    },
+    {
+        "IP": "192.168.36.66",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 153
+    },
+    {
+        "IP": "192.168.36.74",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 154
+    },
+    {
+        "IP": "192.168.36.82",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 155
+    },
+    {
+        "IP": "192.168.36.90",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 156
+    },
+    {
+        "IP": "192.168.36.98",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 157
+    },
+    {
+        "IP": "192.168.36.106",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 158
+    },
+    {
+        "IP": "192.168.36.114",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 159
+    },
+    {
+        "IP": "192.168.36.122",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 160
+    },
+    {
+        "IP": "192.168.36.130",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 161
+    },
+    {
+        "IP": "192.168.36.138",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 162
+    },
+    {
+        "IP": "192.168.36.146",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 163
+    },
+    {
+        "IP": "192.168.36.154",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 164
+    },
+    {
+        "IP": "192.168.36.162",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 165
+    },
+    {
+        "IP": "192.168.36.170",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 166
+    },
+    {
+        "IP": "192.168.36.178",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 167
+    },
+    {
+        "IP": "192.168.36.186",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 168
+    },
+    {
+        "IP": "192.168.36.194",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 169
+    },
+    {
+        "IP": "192.168.36.202",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 170
+    },
+    {
+        "IP": "192.168.36.210",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 171
+    },
+    {
+        "IP": "192.168.36.218",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 172
+    },
+    {
+        "IP": "192.168.36.226",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 173
+    },
+    {
+        "IP": "192.168.36.234",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 174
+    },
+    {
+        "IP": "192.168.36.242",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 175
+    },
+    {
+        "IP": "192.168.36.250",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 177
+    },
+    {
+        "IP": "192.168.37.2",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 178
+    },
+    {
+        "IP": "192.168.37.10",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 179
+    },
+    {
+        "IP": "192.168.37.18",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 180
+    },
+    {
+        "IP": "192.168.37.26",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 181
+    },
+    {
+        "IP": "192.168.37.34",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 182
+    },
+    {
+        "IP": "192.168.37.42",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 183
+    },
+    {
+        "IP": "192.168.37.50",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 184
+    },
+    {
+        "IP": "192.168.37.58",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 185
+    },
+    {
+        "IP": "192.168.37.66",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 186
+    },
+    {
+        "IP": "192.168.37.74",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 187
+    },
+    {
+        "IP": "192.168.37.82",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 188
+    },
+    {
+        "IP": "192.168.37.90",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 189
+    },
+    {
+        "IP": "192.168.37.98",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 190
+    },
+    {
+        "IP": "192.168.37.106",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 191
+    },
+    {
+        "IP": "192.168.37.114",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 192
+    },
+    {
+        "IP": "192.168.37.122",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 193
+    },
+    {
+        "IP": "192.168.37.130",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 194
+    },
+    {
+        "IP": "192.168.37.138",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 195
+    },
+    {
+        "IP": "192.168.37.146",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 196
+    },
+    {
+        "IP": "192.168.37.154",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 197
+    },
+    {
+        "IP": "192.168.37.162",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 198
+    },
+    {
+        "IP": "192.168.37.170",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 199
+    },
+    {
+        "IP": "192.168.37.178",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 200
+    },
+    {
+        "IP": "192.168.37.186",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 201
+    },
+    {
+        "IP": "192.168.37.194",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 202
+    },
+    {
+        "IP": "192.168.37.202",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 203
+    },
+    {
+        "IP": "192.168.37.210",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 204
+    },
+    {
+        "IP": "192.168.37.218",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 205
+    },
+    {
+        "IP": "192.168.37.226",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 206
+    },
+    {
+        "IP": "192.168.37.234",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 207
+    },
+    {
+        "IP": "192.168.37.242",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 208
+    },
+    {
+        "IP": "192.168.37.250",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 209
+    },
+    {
+        "IP": "192.168.38.2",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 210
+    },
+    {
+        "IP": "192.168.38.10",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 211
+    },
+    {
+        "IP": "192.168.38.18",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 212
+    },
+    {
+        "IP": "192.168.38.26",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 213
+    },
+    {
+        "IP": "192.168.38.34",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 214
+    },
+    {
+        "IP": "192.168.38.42",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 215
+    },
+    {
+        "IP": "192.168.38.50",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 216
+    },
+    {
+        "IP": "192.168.38.58",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 217
+    },
+    {
+        "IP": "192.168.38.66",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 218
+    },
+    {
+        "IP": "192.168.38.74",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 219
+    },
+    {
+        "IP": "192.168.38.82",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 220
+    },
+    {
+        "IP": "192.168.38.90",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 221
+    },
+    {
+        "IP": "192.168.38.98",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 222
+    },
+    {
+        "IP": "192.168.38.106",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 223
+    },
+    {
+        "IP": "192.168.38.114",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 224
+    },
+    {
+        "IP": "192.168.38.122",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 225
+    },
+    {
+        "IP": "192.168.38.130",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 226
+    },
+    {
+        "IP": "192.168.38.138",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 227
+    },
+    {
+        "IP": "192.168.38.146",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 228
+    },
+    {
+        "IP": "192.168.38.154",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 229
+    },
+    {
+        "IP": "192.168.38.162",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 230
+    },
+    {
+        "IP": "192.168.38.170",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 231
+    },
+    {
+        "IP": "192.168.38.178",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 232
+    },
+    {
+        "IP": "192.168.38.186",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 233
+    },
+    {
+        "IP": "192.168.38.194",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 234
+    },
+    {
+        "IP": "192.168.38.202",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 235
+    },
+    {
+        "IP": "192.168.38.210",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 236
+    },
+    {
+        "IP": "192.168.38.218",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 237
+    },
+    {
+        "IP": "192.168.38.226",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 238
+    },
+    {
+        "IP": "192.168.38.234",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 239
+    },
+    {
+        "IP": "192.168.38.242",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 240
+    },
+    {
+        "IP": "192.168.38.250",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 241
+    },
+    {
+        "IP": "192.168.39.2",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 242
+    },
+    {
+        "IP": "192.168.39.10",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 243
+    },
+    {
+        "IP": "192.168.39.18",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 244
+    },
+    {
+        "IP": "192.168.39.26",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 245
+    },
+    {
+        "IP": "192.168.39.34",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 246
+    },
+    {
+        "IP": "192.168.39.42",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 247
+    },
+    {
+        "IP": "192.168.39.50",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 248
+    },
+    {
+        "IP": "192.168.39.58",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 249
+    },
+    {
+        "IP": "192.168.39.66",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 250
+    },
+    {
+        "IP": "192.168.39.74",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 251
+    },
+    {
+        "IP": "192.168.39.82",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 252
+    },
+    {
+        "IP": "192.168.39.90",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 253
+    },
+    {
+        "IP": "192.168.39.98",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 254
+    },
+    {
+        "IP": "192.168.39.106",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 255
+    },
+    {
+        "IP": "192.168.39.114",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 256
+    },
+    {
+        "IP": "192.168.39.122",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 257
+    },
+    {
+        "IP": "192.168.39.130",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 258
+    },
+    {
+        "IP": "192.168.39.138",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 259
+    },
+    {
+        "IP": "192.168.39.146",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 260
+    },
+    {
+        "IP": "192.168.39.154",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 261
+    },
+    {
+        "IP": "192.168.39.162",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 262
+    },
+    {
+        "IP": "192.168.39.170",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 263
+    },
+    {
+        "IP": "192.168.39.178",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 264
+    },
+    {
+        "IP": "192.168.39.186",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 265
+    },
+    {
+        "IP": "192.168.39.194",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 266
+    },
+    {
+        "IP": "192.168.39.202",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 267
+    },
+    {
+        "IP": "192.168.39.210",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 268
+    },
+    {
+        "IP": "192.168.39.218",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 269
+    },
+    {
+        "IP": "192.168.39.226",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 270
+    },
+    {
+        "IP": "192.168.39.234",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 271
+    },
+    {
+        "IP": "192.168.39.242",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 272
+    },
+    {
+        "IP": "192.168.39.250",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 273
+    },
+    {
+        "IP": "192.168.40.2",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 274
+    },
+    {
+        "IP": "192.168.40.10",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 275
+    },
+    {
+        "IP": "192.168.40.18",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 276
+    },
+    {
+        "IP": "192.168.40.26",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 277
+    },
+    {
+        "IP": "192.168.40.34",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 278
+    },
+    {
+        "IP": "192.168.40.42",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 279
+    },
+    {
+        "IP": "192.168.40.50",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 280
+    },
+    {
+        "IP": "192.168.40.58",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 281
+    },
+    {
+        "IP": "192.168.40.66",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 282
+    },
+    {
+        "IP": "192.168.40.74",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 283
+    },
+    {
+        "IP": "192.168.40.82",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 284
+    },
+    {
+        "IP": "192.168.40.90",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 285
+    },
+    {
+        "IP": "192.168.40.98",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 286
+    },
+    {
+        "IP": "192.168.40.106",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 287
+    },
+    {
+        "IP": "192.168.40.114",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 288
+    },
+    {
+        "IP": "192.168.40.122",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 289
+    },
+    {
+        "IP": "192.168.40.130",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 290
+    },
+    {
+        "IP": "192.168.40.138",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 291
+    },
+    {
+        "IP": "192.168.40.146",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 292
+    },
+    {
+        "IP": "192.168.40.154",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 293
+    },
+    {
+        "IP": "192.168.40.162",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 294
+    },
+    {
+        "IP": "192.168.40.170",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 295
+    },
+    {
+        "IP": "192.168.40.178",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 296
+    },
+    {
+        "IP": "192.168.40.186",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 297
+    },
+    {
+        "IP": "192.168.40.194",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 298
+    },
+    {
+        "IP": "192.168.40.202",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 299
+    },
+    {
+        "IP": "192.168.40.210",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 300
+    },
+    {
+        "IP": "192.168.40.218",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 301
+    },
+    {
+        "IP": "192.168.40.226",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 302
+    },
+    {
+        "IP": "192.168.40.234",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 303
+    },
+    {
+        "IP": "192.168.40.242",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 304
+    },
+    {
+        "IP": "192.168.40.250",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 305
+    },
+    {
+        "IP": "192.168.41.2",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 306
+    },
+    {
+        "IP": "192.168.41.10",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 307
+    },
+    {
+        "IP": "192.168.41.18",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 308
+    },
+    {
+        "IP": "192.168.41.26",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 309
+    },
+    {
+        "IP": "192.168.41.34",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 310
+    },
+    {
+        "IP": "192.168.41.42",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 311
+    },
+    {
+        "IP": "192.168.41.50",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 312
+    },
+    {
+        "IP": "192.168.41.58",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 313
+    },
+    {
+        "IP": "192.168.41.66",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 314
+    },
+    {
+        "IP": "192.168.41.74",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 315
+    },
+    {
+        "IP": "192.168.41.82",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 316
+    },
+    {
+        "IP": "192.168.41.90",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 317
+    },
+    {
+        "IP": "192.168.41.98",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 318
+    },
+    {
+        "IP": "192.168.41.106",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 319
+    },
+    {
+        "IP": "192.168.41.114",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 320
+    },
+    {
+        "IP": "192.168.41.122",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 321
+    },
+    {
+        "IP": "192.168.41.130",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 322
+    },
+    {
+        "IP": "192.168.41.138",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 323
+    },
+    {
+        "IP": "192.168.41.146",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 324
+    },
+    {
+        "IP": "192.168.41.154",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 325
+    },
+    {
+        "IP": "192.168.41.162",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 326
+    },
+    {
+        "IP": "192.168.41.170",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 327
+    },
+    {
+        "IP": "192.168.41.178",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 328
+    },
+    {
+        "IP": "192.168.41.186",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 329
+    },
+    {
+        "IP": "192.168.41.194",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 330
+    },
+    {
+        "IP": "192.168.41.202",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 331
+    },
+    {
+        "IP": "192.168.41.210",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 332
+    },
+    {
+        "IP": "192.168.41.218",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 333
+    },
+    {
+        "IP": "192.168.41.226",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 334
+    },
+    {
+        "IP": "192.168.41.234",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 335
+    },
+    {
+        "IP": "192.168.41.242",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 336
+    },
+    {
+        "IP": "192.168.41.250",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 337
+    },
+    {
+        "IP": "192.168.42.2",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 338
+    },
+    {
+        "IP": "192.168.42.10",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 339
+    },
+    {
+        "IP": "192.168.42.18",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 340
+    },
+    {
+        "IP": "192.168.42.26",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 341
+    },
+    {
+        "IP": "192.168.42.34",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 342
+    },
+    {
+        "IP": "192.168.42.42",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 343
+    },
+    {
+        "IP": "192.168.42.50",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 344
+    },
+    {
+        "IP": "192.168.42.58",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 345
+    },
+    {
+        "IP": "192.168.42.66",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 346
+    },
+    {
+        "IP": "192.168.42.74",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 347
+    },
+    {
+        "IP": "192.168.42.82",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 348
+    },
+    {
+        "IP": "192.168.42.90",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 349
+    },
+    {
+        "IP": "192.168.42.98",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 350
+    },
+    {
+        "IP": "192.168.42.106",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 351
+    },
+    {
+        "IP": "192.168.42.114",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 352
+    },
+    {
+        "IP": "192.168.42.122",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 353
+    },
+    {
+        "IP": "192.168.42.130",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 354
+    },
+    {
+        "IP": "192.168.42.138",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 355
+    },
+    {
+        "IP": "192.168.42.146",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 356
+    },
+    {
+        "IP": "192.168.42.154",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 357
+    },
+    {
+        "IP": "192.168.42.162",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 358
+    },
+    {
+        "IP": "192.168.42.170",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 359
+    },
+    {
+        "IP": "192.168.42.178",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 360
+    },
+    {
+        "IP": "192.168.42.186",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 361
+    },
+    {
+        "IP": "192.168.42.194",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 362
+    },
+    {
+        "IP": "192.168.42.202",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 363
+    },
+    {
+        "IP": "192.168.42.210",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 364
+    },
+    {
+        "IP": "192.168.42.218",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 365
+    },
+    {
+        "IP": "192.168.42.226",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 366
+    },
+    {
+        "IP": "192.168.42.234",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 367
+    },
+    {
+        "IP": "192.168.42.242",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 368
+    },
+    {
+        "IP": "192.168.42.250",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 369
+    },
+    {
+        "IP": "192.168.43.2",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 370
+    },
+    {
+        "IP": "192.168.43.10",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 371
+    },
+    {
+        "IP": "192.168.43.18",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 372
+    },
+    {
+        "IP": "192.168.43.26",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 373
+    },
+    {
+        "IP": "192.168.43.34",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 374
+    },
+    {
+        "IP": "192.168.43.42",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 375
+    },
+    {
+        "IP": "192.168.43.50",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 376
+    },
+    {
+        "IP": "192.168.43.58",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 377
+    },
+    {
+        "IP": "192.168.43.66",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 378
+    },
+    {
+        "IP": "192.168.43.74",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 379
+    },
+    {
+        "IP": "192.168.43.82",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 380
+    },
+    {
+        "IP": "192.168.43.90",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 381
+    },
+    {
+        "IP": "192.168.43.98",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 382
+    },
+    {
+        "IP": "192.168.43.106",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 383
+    },
+    {
+        "IP": "192.168.43.114",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 384
+    },
+    {
+        "IP": "192.168.43.122",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 385
+    },
+    {
+        "IP": "192.168.43.130",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 386
+    },
+    {
+        "IP": "192.168.43.138",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 387
+    },
+    {
+        "IP": "192.168.43.146",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 388
+    },
+    {
+        "IP": "192.168.43.154",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 389
+    },
+    {
+        "IP": "192.168.43.162",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 391
+    },
+    {
+        "IP": "192.168.43.170",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 392
+    },
+    {
+        "IP": "192.168.43.178",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 393
+    },
+    {
+        "IP": "192.168.43.186",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 394
+    },
+    {
+        "IP": "192.168.43.194",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 395
+    },
+    {
+        "IP": "192.168.43.202",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 396
+    },
+    {
+        "IP": "192.168.43.210",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 397
+    },
+    {
+        "IP": "192.168.43.218",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 398
+    },
+    {
+        "IP": "192.168.43.226",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 399
+    },
+    {
+        "IP": "192.168.43.234",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 400
+    },
+    {
+        "IP": "192.168.43.242",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 401
+    },
+    {
+        "IP": "192.168.43.250",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 402
+    },
+    {
+        "IP": "192.168.44.2",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 403
+    },
+    {
+        "IP": "192.168.44.10",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 404
+    },
+    {
+        "IP": "192.168.44.18",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 405
+    },
+    {
+        "IP": "192.168.44.26",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 406
+    },
+    {
+        "IP": "192.168.44.34",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 407
+    },
+    {
+        "IP": "192.168.44.42",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 408
+    },
+    {
+        "IP": "192.168.44.50",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 409
+    },
+    {
+        "IP": "192.168.44.58",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 410
+    },
+    {
+        "IP": "192.168.44.66",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 411
+    },
+    {
+        "IP": "192.168.44.74",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 412
+    },
+    {
+        "IP": "192.168.44.82",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 413
+    },
+    {
+        "IP": "192.168.44.90",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 414
+    },
+    {
+        "IP": "192.168.44.98",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 415
+    },
+    {
+        "IP": "192.168.44.106",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 416
+    },
+    {
+        "IP": "192.168.44.114",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 417
+    },
+    {
+        "IP": "192.168.44.122",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 418
+    },
+    {
+        "IP": "192.168.44.130",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 419
+    },
+    {
+        "IP": "192.168.44.138",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 420
+    },
+    {
+        "IP": "192.168.44.146",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 421
+    },
+    {
+        "IP": "192.168.44.154",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 422
+    },
+    {
+        "IP": "192.168.44.162",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 423
+    },
+    {
+        "IP": "192.168.44.170",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 424
+    },
+    {
+        "IP": "192.168.44.178",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 425
+    },
+    {
+        "IP": "192.168.44.186",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 426
+    },
+    {
+        "IP": "192.168.44.194",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 427
+    },
+    {
+        "IP": "192.168.44.202",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 428
+    },
+    {
+        "IP": "192.168.44.210",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 429
+    },
+    {
+        "IP": "192.168.44.218",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 430
+    },
+    {
+        "IP": "192.168.44.226",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 431
+    },
+    {
+        "IP": "192.168.44.234",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 432
+    },
+    {
+        "IP": "192.168.44.242",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 433
+    },
+    {
+        "IP": "192.168.44.250",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 434
+    },
+    {
+        "IP": "192.168.45.2",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 435
+    },
+    {
+        "IP": "192.168.45.10",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 436
+    },
+    {
+        "IP": "192.168.45.18",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 437
+    },
+    {
+        "IP": "192.168.45.26",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 438
+    },
+    {
+        "IP": "192.168.45.34",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 439
+    },
+    {
+        "IP": "192.168.45.42",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 440
+    },
+    {
+        "IP": "192.168.45.50",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 442
+    },
+    {
+        "IP": "192.168.45.58",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 443
+    },
+    {
+        "IP": "192.168.45.66",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 444
+    },
+    {
+        "IP": "192.168.45.74",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 445
+    },
+    {
+        "IP": "192.168.45.82",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 446
+    },
+    {
+        "IP": "192.168.45.90",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 447
+    },
+    {
+        "IP": "192.168.45.98",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 448
+    },
+    {
+        "IP": "192.168.45.106",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 449
+    },
+    {
+        "IP": "192.168.45.114",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 450
+    },
+    {
+        "IP": "192.168.45.122",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 451
+    },
+    {
+        "IP": "192.168.45.130",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 452
+    },
+    {
+        "IP": "192.168.45.138",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 453
+    },
+    {
+        "IP": "192.168.45.146",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 454
+    },
+    {
+        "IP": "192.168.45.154",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 455
+    },
+    {
+        "IP": "192.168.45.162",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 456
+    },
+    {
+        "IP": "192.168.45.170",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 457
+    },
+    {
+        "IP": "192.168.45.178",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 458
+    },
+    {
+        "IP": "192.168.45.186",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 459
+    },
+    {
+        "IP": "192.168.45.194",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 460
+    },
+    {
+        "IP": "192.168.45.202",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 461
+    },
+    {
+        "IP": "192.168.45.210",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 462
+    },
+    {
+        "IP": "192.168.45.218",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 463
+    },
+    {
+        "IP": "192.168.45.226",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 464
+    },
+    {
+        "IP": "192.168.45.234",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 465
+    },
+    {
+        "IP": "192.168.45.242",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 466
+    },
+    {
+        "IP": "192.168.45.250",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 467
+    },
+    {
+        "IP": "192.168.46.2",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 468
+    },
+    {
+        "IP": "192.168.46.10",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 469
+    },
+    {
+        "IP": "192.168.46.18",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 470
+    },
+    {
+        "IP": "192.168.46.26",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 471
+    },
+    {
+        "IP": "192.168.46.34",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 472
+    },
+    {
+        "IP": "192.168.46.42",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 473
+    },
+    {
+        "IP": "192.168.46.50",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 474
+    },
+    {
+        "IP": "192.168.46.58",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 475
+    },
+    {
+        "IP": "192.168.46.66",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 476
+    },
+    {
+        "IP": "192.168.46.74",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 477
+    },
+    {
+        "IP": "192.168.46.82",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 478
+    },
+    {
+        "IP": "192.168.46.90",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 479
+    },
+    {
+        "IP": "192.168.46.98",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 480
+    },
+    {
+        "IP": "192.168.46.106",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 481
+    },
+    {
+        "IP": "192.168.46.114",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 482
+    },
+    {
+        "IP": "192.168.46.122",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 483
+    },
+    {
+        "IP": "192.168.46.130",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 484
+    },
+    {
+        "IP": "192.168.46.138",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 485
+    },
+    {
+        "IP": "192.168.46.146",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 486
+    },
+    {
+        "IP": "192.168.46.154",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 487
+    },
+    {
+        "IP": "192.168.46.162",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 488
+    },
+    {
+        "IP": "192.168.46.170",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 489
+    },
+    {
+        "IP": "192.168.46.178",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 490
+    },
+    {
+        "IP": "192.168.46.186",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 491
+    },
+    {
+        "IP": "192.168.46.194",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 492
+    },
+    {
+        "IP": "192.168.46.202",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 493
+    },
+    {
+        "IP": "192.168.46.210",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 494
+    },
+    {
+        "IP": "192.168.46.218",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 496
+    },
+    {
+        "IP": "192.168.46.226",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 497
+    },
+    {
+        "IP": "192.168.46.234",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 498
+    },
+    {
+        "IP": "192.168.46.242",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 499
+    },
+    {
+        "IP": "192.168.46.250",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 500
+    },
+    {
+        "IP": "192.168.47.2",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 501
+    },
+    {
+        "IP": "192.168.47.10",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 502
+    },
+    {
+        "IP": "192.168.47.18",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 503
+    },
+    {
+        "IP": "192.168.47.26",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 504
+    },
+    {
+        "IP": "192.168.47.34",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 505
+    },
+    {
+        "IP": "192.168.47.42",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 506
+    },
+    {
+        "IP": "192.168.47.50",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 507
+    },
+    {
+        "IP": "192.168.47.58",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 508
+    },
+    {
+        "IP": "192.168.47.66",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 509
+    },
+    {
+        "IP": "192.168.47.74",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 510
+    },
+    {
+        "IP": "192.168.47.82",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 511
+    },
+    {
+        "IP": "192.168.47.90",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 512
+    },
+    {
+        "IP": "192.168.47.98",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 513
+    },
+    {
+        "IP": "192.168.47.106",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 514
+    },
+    {
+        "IP": "192.168.47.114",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 515
+    },
+    {
+        "IP": "192.168.47.122",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 516
+    },
+    {
+        "IP": "192.168.47.130",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 517
+    },
+    {
+        "IP": "192.168.47.138",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 518
+    },
+    {
+        "IP": "192.168.47.146",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 519
+    },
+    {
+        "IP": "192.168.47.154",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 520
+    },
+    {
+        "IP": "192.168.47.162",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 521
+    },
+    {
+        "IP": "192.168.47.170",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 522
+    },
+    {
+        "IP": "192.168.47.178",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 523
+    },
+    {
+        "IP": "192.168.47.186",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 524
+    },
+    {
+        "IP": "192.168.47.194",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 525
+    },
+    {
+        "IP": "192.168.47.202",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 526
+    },
+    {
+        "IP": "192.168.47.210",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 527
+    },
+    {
+        "IP": "192.168.47.218",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 528
+    },
+    {
+        "IP": "192.168.47.226",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 529
+    },
+    {
+        "IP": "192.168.47.234",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 530
+    },
+    {
+        "IP": "192.168.47.242",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 531
+    },
+    {
+        "IP": "192.168.47.250",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 532
+    },
+    {
+        "IP": "192.168.48.2",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 533
+    },
+    {
+        "IP": "192.168.48.10",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 534
+    },
+    {
+        "IP": "192.168.48.18",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 535
+    },
+    {
+        "IP": "192.168.48.26",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 536
+    },
+    {
+        "IP": "192.168.48.34",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 537
+    },
+    {
+        "IP": "192.168.48.42",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 538
+    },
+    {
+        "IP": "192.168.48.50",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 539
+    },
+    {
+        "IP": "192.168.48.58",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 540
+    },
+    {
+        "IP": "192.168.48.66",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 541
+    },
+    {
+        "IP": "192.168.48.74",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 542
+    },
+    {
+        "IP": "192.168.48.82",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 543
+    },
+    {
+        "IP": "192.168.48.90",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 544
+    },
+    {
+        "IP": "192.168.48.98",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 545
+    },
+    {
+        "IP": "192.168.48.106",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 546
+    },
+    {
+        "IP": "192.168.48.114",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 547
+    },
+    {
+        "IP": "192.168.48.122",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 548
+    },
+    {
+        "IP": "192.168.48.130",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 549
+    },
+    {
+        "IP": "192.168.48.138",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 550
+    },
+    {
+        "IP": "192.168.48.146",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 551
+    },
+    {
+        "IP": "192.168.48.154",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 552
+    },
+    {
+        "IP": "192.168.48.162",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 553
+    },
+    {
+        "IP": "192.168.48.170",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 554
+    },
+    {
+        "IP": "192.168.48.178",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 555
+    },
+    {
+        "IP": "192.168.48.186",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 556
+    },
+    {
+        "IP": "192.168.48.194",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 557
+    },
+    {
+        "IP": "192.168.48.202",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 558
+    },
+    {
+        "IP": "192.168.48.210",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 559
+    },
+    {
+        "IP": "192.168.48.218",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 560
+    },
+    {
+        "IP": "192.168.48.226",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 561
+    },
+    {
+        "IP": "192.168.48.234",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 562
+    },
+    {
+        "IP": "192.168.48.242",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 563
+    },
+    {
+        "IP": "192.168.48.250",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 564
+    },
+    {
+        "IP": "192.168.49.2",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 565
+    },
+    {
+        "IP": "192.168.49.10",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 566
+    },
+    {
+        "IP": "192.168.49.18",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 567
+    },
+    {
+        "IP": "192.168.49.26",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 568
+    },
+    {
+        "IP": "192.168.49.34",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 569
+    },
+    {
+        "IP": "192.168.49.42",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 570
+    },
+    {
+        "IP": "192.168.49.50",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 571
+    },
+    {
+        "IP": "192.168.49.58",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 573
+    },
+    {
+        "IP": "192.168.49.66",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 574
+    },
+    {
+        "IP": "192.168.49.74",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 575
+    },
+    {
+        "IP": "192.168.49.82",
+        "TIPO": "II",
+        "DISPOSITIVO": "CAM 360°",
+        "POSTE": 577
+    },
+    {
+        "IP": "192.168.49.90",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 579
+    },
+    {
+        "IP": "192.168.49.98",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 580
+    },
+    {
+        "IP": "192.168.49.106",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 581
+    },
+    {
+        "IP": "192.168.49.114",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 583
+    },
+    {
+        "IP": "192.168.49.122",
+        "TIPO": "I",
+        "DISPOSITIVO": "CAM 180°",
+        "POSTE": 584
+    },
+    {
+        "IP": "192.168.49.130",
+        "TIPO": "III",
+        "DISPOSITIVO": "LPR",
+        "POSTE": "100A"
+    },
+    {
+        "IP": "192.168.49.138",
+        "TIPO": "III",
+        "DISPOSITIVO": "LPR",
+        "POSTE": "100B"
+    },
+    {
+        "IP": "192.168.49.146",
+        "TIPO": "III",
+        "DISPOSITIVO": "LPR",
+        "POSTE": "104A"
+    },
+    {
+        "IP": "192.168.49.154",
+        "TIPO": "III",
+        "DISPOSITIVO": "LPR",
+        "POSTE": "104B"
+    },
+    {
+        "IP": "192.168.49.162",
+        "TIPO": "III",
+        "DISPOSITIVO": "LPR",
+        "POSTE": "10A"
+    },
+    {
+        "IP": "192.168.49.170",
+        "TIPO": "III",
+        "DISPOSITIVO": "LPR",
+        "POSTE": "10B"
+    },
+    {
+        "IP": "192.168.49.178",
+        "TIPO": "III",
+        "DISPOSITIVO": "LPR",
+        "POSTE": "176A"
+    },
+    {
+        "IP": "192.168.49.186",
+        "TIPO": "III",
+        "DISPOSITIVO": "LPR",
+        "POSTE": "176B"
+    },
+    {
+        "IP": "192.168.49.194",
+        "TIPO": "III",
+        "DISPOSITIVO": "LPR",
+        "POSTE": "176C"
+    },
+    {
+        "IP": "192.168.49.202",
+        "TIPO": "III",
+        "DISPOSITIVO": "LPR",
+        "POSTE": "176D"
+    },
+    {
+        "IP": "192.168.49.210",
+        "TIPO": "III",
+        "DISPOSITIVO": "LPR",
+        "POSTE": "20A"
+    },
+    {
+        "IP": "192.168.49.218",
+        "TIPO": "III",
+        "DISPOSITIVO": "LPR",
+        "POSTE": "20B"
+    },
+    {
+        "IP": "192.168.49.226",
+        "TIPO": "III",
+        "DISPOSITIVO": "LPR",
+        "POSTE": "26A"
+    },
+    {
+        "IP": "192.168.49.234",
+        "TIPO": "III",
+        "DISPOSITIVO": "LPR",
+        "POSTE": "26B"
+    },
+    {
+        "IP": "192.168.49.242",
+        "TIPO": "III",
+        "DISPOSITIVO": "LPR",
+        "POSTE": "32A"
+    },
+    {
+        "IP": "192.168.49.250",
+        "TIPO": "III",
+        "DISPOSITIVO": "LPR",
+        "POSTE": "32B"
+    },
+    {
+        "IP": "192.168.50.2",
+        "TIPO": "III",
+        "DISPOSITIVO": "LPR",
+        "POSTE": "390A"
+    },
+    {
+        "IP": "192.168.50.10",
+        "TIPO": "III",
+        "DISPOSITIVO": "LPR",
+        "POSTE": "390B"
+    },
+    {
+        "IP": "192.168.50.18",
+        "TIPO": "III",
+        "DISPOSITIVO": "LPR",
+        "POSTE": "42A"
+    },
+    {
+        "IP": "192.168.50.26",
+        "TIPO": "III",
+        "DISPOSITIVO": "LPR",
+        "POSTE": "42B"
+    },
+    {
+        "IP": "192.168.50.34",
+        "TIPO": "III",
+        "DISPOSITIVO": "LPR",
+        "POSTE": "441A"
+    },
+    {
+        "IP": "192.168.50.42",
+        "TIPO": "III",
+        "DISPOSITIVO": "LPR",
+        "POSTE": "441B"
+    },
+    {
+        "IP": "192.168.50.50",
+        "TIPO": "III",
+        "DISPOSITIVO": "LPR",
+        "POSTE": "495A"
+    },
+    {
+        "IP": "192.168.50.58",
+        "TIPO": "III",
+        "DISPOSITIVO": "LPR",
+        "POSTE": "495B"
+    },
+    {
+        "IP": "192.168.50.66",
+        "TIPO": "III",
+        "DISPOSITIVO": "LPR",
+        "POSTE": "54A"
+    },
+    {
+        "IP": "192.168.50.74",
+        "TIPO": "III",
+        "DISPOSITIVO": "LPR",
+        "POSTE": "54B"
+    },
+    {
+        "IP": "192.168.50.82",
+        "TIPO": "III",
+        "DISPOSITIVO": "LPR",
+        "POSTE": "572A"
+    },
+    {
+        "IP": "192.168.50.90",
+        "TIPO": "III",
+        "DISPOSITIVO": "LPR",
+        "POSTE": "572B"
+    },
+    {
+        "IP": "192.168.50.98",
+        "TIPO": "III",
+        "DISPOSITIVO": "LPR",
+        "POSTE": "576A"
+    },
+    {
+        "IP": "192.168.50.106",
+        "TIPO": "III",
+        "DISPOSITIVO": "LPR",
+        "POSTE": "576B"
+    },
+    {
+        "IP": "192.168.50.114",
+        "TIPO": "III",
+        "DISPOSITIVO": "LPR",
+        "POSTE": "578A"
+    },
+    {
+        "IP": "192.168.50.122",
+        "TIPO": "III",
+        "DISPOSITIVO": "LPR",
+        "POSTE": "578B"
+    },
+    {
+        "IP": "192.168.50.130",
+        "TIPO": "III",
+        "DISPOSITIVO": "LPR",
+        "POSTE": "582A"
+    },
+    {
+        "IP": "192.168.50.138",
+        "TIPO": "III",
+        "DISPOSITIVO": "LPR",
+        "POSTE": "582B"
+    },
+    {
+        "IP": "192.168.50.146",
+        "TIPO": "III",
+        "DISPOSITIVO": "LPR",
+        "POSTE": "63A"
+    },
+    {
+        "IP": "192.168.50.154",
+        "TIPO": "III",
+        "DISPOSITIVO": "LPR",
+        "POSTE": "63B"
+    },
+    {
+        "IP": "192.168.50.162",
+        "TIPO": "III",
+        "DISPOSITIVO": "LPR",
+        "POSTE": "64A"
+    },
+    {
+        "IP": "192.168.50.170",
+        "TIPO": "III",
+        "DISPOSITIVO": "LPR",
+        "POSTE": "64B"
+    },
+    {
+        "IP": "192.168.50.178",
+        "TIPO": "III",
+        "DISPOSITIVO": "LPR",
+        "POSTE": "65A"
+    },
+    {
+        "IP": "192.168.50.186",
+        "TIPO": "III",
+        "DISPOSITIVO": "LPR",
+        "POSTE": "65B"
+    },
+    {
+        "IP": "192.168.50.194",
+        "TIPO": "III",
+        "DISPOSITIVO": "LPR",
+        "POSTE": "75A"
+    },
+    {
+        "IP": "192.168.50.202",
+        "TIPO": "III",
+        "DISPOSITIVO": "LPR",
+        "POSTE": "75B"
+    },
+    {
+        "IP": "192.168.50.210",
+        "TIPO": "III",
+        "DISPOSITIVO": "LPR",
+        "POSTE": "77A"
+    },
+    {
+        "IP": "192.168.50.218",
+        "TIPO": "III",
+        "DISPOSITIVO": "LPR",
+        "POSTE": "77B"
+    },
+    {
+        "IP": "192.168.50.226",
+        "TIPO": "III",
+        "DISPOSITIVO": "LPR",
+        "POSTE": "78A"
+    },
+    {
+        "IP": "192.168.50.234",
+        "TIPO": "III",
+        "DISPOSITIVO": "LPR",
+        "POSTE": "78B"
+    },
+    {
+        "IP": "192.168.50.242",
+        "TIPO": "III",
+        "DISPOSITIVO": "LPR",
+        "POSTE": "79A"
+    },
+    {
+        "IP": "192.168.50.250",
+        "TIPO": "III",
+        "DISPOSITIVO": "LPR",
+        "POSTE": "79B"
+    },
+    {
+        "IP": "192.168.51.2",
+        "TIPO": "III",
+        "DISPOSITIVO": "LPR",
+        "POSTE": "84A"
+    },
+    {
+        "IP": "192.168.51.10",
+        "TIPO": "III",
+        "DISPOSITIVO": "LPR",
+        "POSTE": "84B"
+    },
+    {
+        "IP": "192.168.32.3",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 1
+    },
+    {
+        "IP": "192.168.32.11",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 2
+    },
+    {
+        "IP": "192.168.32.19",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 3
+    },
+    {
+        "IP": "192.168.32.27",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 4
+    },
+    {
+        "IP": "192.168.32.35",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 5
+    },
+    {
+        "IP": "192.168.32.43",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 6
+    },
+    {
+        "IP": "192.168.32.51",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 7
+    },
+    {
+        "IP": "192.168.32.67",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 9
+    },
+    {
+        "IP": "192.168.32.75",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 11
+    },
+    {
+        "IP": "192.168.32.83",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 12
+    },
+    {
+        "IP": "192.168.32.91",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 13
+    },
+    {
+        "IP": "192.168.32.99",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 14
+    },
+    {
+        "IP": "192.168.32.107",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 15
+    },
+    {
+        "IP": "192.168.32.123",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 17
+    },
+    {
+        "IP": "192.168.32.139",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 19
+    },
+    {
+        "IP": "192.168.32.147",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 21
+    },
+    {
+        "IP": "192.168.32.155",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 22
+    },
+    {
+        "IP": "192.168.32.163",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 23
+    },
+    {
+        "IP": "192.168.32.171",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 24
+    },
+    {
+        "IP": "192.168.32.179",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 25
+    },
+    {
+        "IP": "192.168.32.187",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 27
+    },
+    {
+        "IP": "192.168.32.203",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 29
+    },
+    {
+        "IP": "192.168.32.211",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 30
+    },
+    {
+        "IP": "192.168.32.219",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 31
+    },
+    {
+        "IP": "192.168.32.235",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 34
+    },
+    {
+        "IP": "192.168.32.243",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 35
+    },
+    {
+        "IP": "192.168.32.251",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 36
+    },
+    {
+        "IP": "192.168.33.3",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 37
+    },
+    {
+        "IP": "192.168.33.11",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 38
+    },
+    {
+        "IP": "192.168.33.27",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 40
+    },
+    {
+        "IP": "192.168.33.35",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 41
+    },
+    {
+        "IP": "192.168.33.43",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 43
+    },
+    {
+        "IP": "192.168.33.51",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 44
+    },
+    {
+        "IP": "192.168.33.59",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 45
+    },
+    {
+        "IP": "192.168.33.67",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 46
+    },
+    {
+        "IP": "192.168.33.75",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 47
+    },
+    {
+        "IP": "192.168.33.83",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 48
+    },
+    {
+        "IP": "192.168.33.91",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 49
+    },
+    {
+        "IP": "192.168.33.99",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 50
+    },
+    {
+        "IP": "192.168.33.107",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 51
+    },
+    {
+        "IP": "192.168.33.115",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 52
+    },
+    {
+        "IP": "192.168.33.123",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 53
+    },
+    {
+        "IP": "192.168.33.131",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 55
+    },
+    {
+        "IP": "192.168.33.139",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 56
+    },
+    {
+        "IP": "192.168.33.147",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 57
+    },
+    {
+        "IP": "192.168.33.155",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 58
+    },
+    {
+        "IP": "192.168.33.163",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 59
+    },
+    {
+        "IP": "192.168.33.171",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 60
+    },
+    {
+        "IP": "192.168.33.187",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 62
+    },
+    {
+        "IP": "192.168.33.195",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 66
+    },
+    {
+        "IP": "192.168.33.227",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 70
+    },
+    {
+        "IP": "192.168.33.235",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 71
+    },
+    {
+        "IP": "192.168.33.251",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 73
+    },
+    {
+        "IP": "192.168.34.3",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 74
+    },
+    {
+        "IP": "192.168.34.11",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 76
+    },
+    {
+        "IP": "192.168.34.19",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 80
+    },
+    {
+        "IP": "192.168.34.27",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 81
+    },
+    {
+        "IP": "192.168.34.35",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 82
+    },
+    {
+        "IP": "192.168.34.43",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 83
+    },
+    {
+        "IP": "192.168.34.51",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 85
+    },
+    {
+        "IP": "192.168.34.67",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 87
+    },
+    {
+        "IP": "192.168.34.75",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 88
+    },
+    {
+        "IP": "192.168.34.83",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 89
+    },
+    {
+        "IP": "192.168.34.91",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 90
+    },
+    {
+        "IP": "192.168.34.99",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 91
+    },
+    {
+        "IP": "192.168.34.115",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 93
+    },
+    {
+        "IP": "192.168.34.123",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 94
+    },
+    {
+        "IP": "192.168.34.131",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 95
+    },
+    {
+        "IP": "192.168.34.139",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 96
+    },
+    {
+        "IP": "192.168.34.147",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 97
+    },
+    {
+        "IP": "192.168.34.155",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 98
+    },
+    {
+        "IP": "192.168.34.163",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 99
+    },
+    {
+        "IP": "192.168.34.171",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 101
+    },
+    {
+        "IP": "192.168.34.179",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 102
+    },
+    {
+        "IP": "192.168.34.187",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 103
+    },
+    {
+        "IP": "192.168.34.195",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 105
+    },
+    {
+        "IP": "192.168.34.211",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 107
+    },
+    {
+        "IP": "192.168.34.219",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 108
+    },
+    {
+        "IP": "192.168.34.227",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 109
+    },
+    {
+        "IP": "192.168.35.27",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 116
+    },
+    {
+        "IP": "192.168.35.67",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 121
+    },
+    {
+        "IP": "192.168.35.91",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 124
+    },
+    {
+        "IP": "192.168.35.139",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 130
+    },
+    {
+        "IP": "192.168.35.243",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 143
+    },
+    {
+        "IP": "192.168.35.251",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 144
+    },
+    {
+        "IP": "192.168.36.3",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 145
+    },
+    {
+        "IP": "192.168.36.27",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 148
+    },
+    {
+        "IP": "192.168.36.91",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 156
+    },
+    {
+        "IP": "192.168.36.139",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 162
+    },
+    {
+        "IP": "192.168.36.171",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 166
+    },
+    {
+        "IP": "192.168.36.203",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 170
+    },
+    {
+        "IP": "192.168.37.27",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 181
+    },
+    {
+        "IP": "192.168.37.43",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 183
+    },
+    {
+        "IP": "192.168.37.51",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 184
+    },
+    {
+        "IP": "192.168.37.59",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 185
+    },
+    {
+        "IP": "192.168.37.91",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 189
+    },
+    {
+        "IP": "192.168.37.107",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 191
+    },
+    {
+        "IP": "192.168.37.163",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 198
+    },
+    {
+        "IP": "192.168.37.179",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 200
+    },
+    {
+        "IP": "192.168.38.51",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 216
+    },
+    {
+        "IP": "192.168.38.99",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 222
+    },
+    {
+        "IP": "192.168.38.147",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 228
+    },
+    {
+        "IP": "192.168.38.195",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 234
+    },
+    {
+        "IP": "192.168.39.163",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 262
+    },
+    {
+        "IP": "192.168.39.211",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 268
+    },
+    {
+        "IP": "192.168.40.99",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 286
+    },
+    {
+        "IP": "192.168.40.107",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 287
+    },
+    {
+        "IP": "192.168.40.123",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 289
+    },
+    {
+        "IP": "192.168.40.171",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 295
+    },
+    {
+        "IP": "192.168.40.187",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 297
+    },
+    {
+        "IP": "192.168.40.203",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 299
+    },
+    {
+        "IP": "192.168.40.235",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 303
+    },
+    {
+        "IP": "192.168.40.243",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 304
+    },
+    {
+        "IP": "192.168.40.251",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 305
+    },
+    {
+        "IP": "192.168.41.35",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 310
+    },
+    {
+        "IP": "192.168.41.51",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 312
+    },
+    {
+        "IP": "192.168.41.59",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 313
+    },
+    {
+        "IP": "192.168.41.75",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 315
+    },
+    {
+        "IP": "192.168.41.91",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 317
+    },
+    {
+        "IP": "192.168.41.123",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 321
+    },
+    {
+        "IP": "192.168.41.171",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 327
+    },
+    {
+        "IP": "192.168.41.179",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 328
+    },
+    {
+        "IP": "192.168.41.187",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 329
+    },
+    {
+        "IP": "192.168.41.219",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 333
+    },
+    {
+        "IP": "192.168.41.243",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 336
+    },
+    {
+        "IP": "192.168.42.43",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 343
+    },
+    {
+        "IP": "192.168.42.115",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 352
+    },
+    {
+        "IP": "192.168.42.147",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 356
+    },
+    {
+        "IP": "192.168.42.179",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 360
+    },
+    {
+        "IP": "192.168.42.195",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 362
+    },
+    {
+        "IP": "192.168.42.203",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 363
+    },
+    {
+        "IP": "192.168.42.227",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 366
+    },
+    {
+        "IP": "192.168.43.35",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 374
+    },
+    {
+        "IP": "192.168.43.59",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 377
+    },
+    {
+        "IP": "192.168.43.107",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 383
+    },
+    {
+        "IP": "192.168.43.115",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 384
+    },
+    {
+        "IP": "192.168.43.139",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 387
+    },
+    {
+        "IP": "192.168.43.163",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 391
+    },
+    {
+        "IP": "192.168.43.187",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 394
+    },
+    {
+        "IP": "192.168.43.211",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 397
+    },
+    {
+        "IP": "192.168.43.227",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 399
+    },
+    {
+        "IP": "192.168.43.251",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 402
+    },
+    {
+        "IP": "192.168.44.3",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 403
+    },
+    {
+        "IP": "192.168.44.11",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 404
+    },
+    {
+        "IP": "192.168.44.59",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 410
+    },
+    {
+        "IP": "192.168.44.75",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 412
+    },
+    {
+        "IP": "192.168.44.91",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 414
+    },
+    {
+        "IP": "192.168.44.131",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 419
+    },
+    {
+        "IP": "192.168.44.195",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 427
+    },
+    {
+        "IP": "192.168.44.243",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 433
+    },
+    {
+        "IP": "192.168.45.11",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 436
+    },
+    {
+        "IP": "192.168.45.99",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 448
+    },
+    {
+        "IP": "192.168.45.187",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 459
+    },
+    {
+        "IP": "192.168.46.3",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 468
+    },
+    {
+        "IP": "192.168.46.43",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 473
+    },
+    {
+        "IP": "192.168.46.51",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 474
+    },
+    {
+        "IP": "192.168.46.83",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 478
+    },
+    {
+        "IP": "192.168.46.107",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 481
+    },
+    {
+        "IP": "192.168.46.115",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 482
+    },
+    {
+        "IP": "192.168.46.123",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 483
+    },
+    {
+        "IP": "192.168.46.131",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 484
+    },
+    {
+        "IP": "192.168.46.147",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 486
+    },
+    {
+        "IP": "192.168.46.163",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 488
+    },
+    {
+        "IP": "192.168.46.179",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 490
+    },
+    {
+        "IP": "192.168.46.195",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 492
+    },
+    {
+        "IP": "192.168.46.251",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 500
+    },
+    {
+        "IP": "192.168.47.51",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 507
+    },
+    {
+        "IP": "192.168.47.155",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 520
+    },
+    {
+        "IP": "192.168.47.171",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 522
+    },
+    {
+        "IP": "192.168.47.179",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 523
+    },
+    {
+        "IP": "192.168.47.187",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 524
+    },
+    {
+        "IP": "192.168.47.195",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 525
+    },
+    {
+        "IP": "192.168.47.227",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 529
+    },
+    {
+        "IP": "192.168.47.243",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 531
+    },
+    {
+        "IP": "192.168.47.251",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 532
+    },
+    {
+        "IP": "192.168.48.3",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 533
+    },
+    {
+        "IP": "192.168.48.11",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 534
+    },
+    {
+        "IP": "192.168.48.19",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 535
+    },
+    {
+        "IP": "192.168.48.91",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 544
+    },
+    {
+        "IP": "192.168.48.115",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 547
+    },
+    {
+        "IP": "192.168.48.123",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 548
+    },
+    {
+        "IP": "192.168.48.131",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 549
+    },
+    {
+        "IP": "192.168.48.163",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 553
+    },
+    {
+        "IP": "192.168.48.179",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 555
+    },
+    {
+        "IP": "192.168.48.187",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 556
+    },
+    {
+        "IP": "192.168.48.195",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 557
+    },
+    {
+        "IP": "192.168.48.203",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 558
+    },
+    {
+        "IP": "192.168.48.219",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 560
+    },
+    {
+        "IP": "192.168.48.235",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 562
+    },
+    {
+        "IP": "192.168.48.243",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 563
+    },
+    {
+        "IP": "192.168.49.3",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 565
+    },
+    {
+        "IP": "192.168.49.27",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 568
+    },
+    {
+        "IP": "192.168.49.43",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 570
+    },
+    {
+        "IP": "192.168.49.51",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 571
+    },
+    {
+        "IP": "192.168.49.59",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 573
+    },
+    {
+        "IP": "192.168.49.67",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 574
+    },
+    {
+        "IP": "192.168.49.83",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 577
+    },
+    {
+        "IP": "192.168.49.91",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 579
+    },
+    {
+        "IP": "192.168.49.99",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 580
+    },
+    {
+        "IP": "192.168.49.107",
+        "TIPO": "IV",
+        "DISPOSITIVO": "MGFN",
+        "POSTE": 581
+    },
+    {
+        "IP": "192.168.32.4",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 1
+    },
+    {
+        "IP": "192.168.32.12",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 2
+    },
+    {
+        "IP": "192.168.32.36",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 5
+    },
+    {
+        "IP": "192.168.32.68",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 9
+    },
+    {
+        "IP": "192.168.32.76",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 11
+    },
+    {
+        "IP": "192.168.32.84",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 12
+    },
+    {
+        "IP": "192.168.32.100",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 14
+    },
+    {
+        "IP": "192.168.32.124",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 17
+    },
+    {
+        "IP": "192.168.32.140",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 19
+    },
+    {
+        "IP": "192.168.32.148",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 21
+    },
+    {
+        "IP": "192.168.32.156",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 22
+    },
+    {
+        "IP": "192.168.32.172",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 24
+    },
+    {
+        "IP": "192.168.32.180",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 25
+    },
+    {
+        "IP": "192.168.32.220",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 31
+    },
+    {
+        "IP": "192.168.32.236",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 34
+    },
+    {
+        "IP": "192.168.32.244",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 35
+    },
+    {
+        "IP": "192.168.33.36",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 41
+    },
+    {
+        "IP": "192.168.33.44",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 43
+    },
+    {
+        "IP": "192.168.33.52",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 44
+    },
+    {
+        "IP": "192.168.33.60",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 45
+    },
+    {
+        "IP": "192.168.33.76",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 47
+    },
+    {
+        "IP": "192.168.33.84",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 48
+    },
+    {
+        "IP": "192.168.33.92",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 49
+    },
+    {
+        "IP": "192.168.33.100",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 50
+    },
+    {
+        "IP": "192.168.33.108",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 51
+    },
+    {
+        "IP": "192.168.33.124",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 53
+    },
+    {
+        "IP": "192.168.33.132",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 55
+    },
+    {
+        "IP": "192.168.33.140",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 56
+    },
+    {
+        "IP": "192.168.33.148",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 57
+    },
+    {
+        "IP": "192.168.33.156",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 58
+    },
+    {
+        "IP": "192.168.33.164",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 59
+    },
+    {
+        "IP": "192.168.33.172",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 60
+    },
+    {
+        "IP": "192.168.33.188",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 62
+    },
+    {
+        "IP": "192.168.33.228",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 70
+    },
+    {
+        "IP": "192.168.33.236",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 71
+    },
+    {
+        "IP": "192.168.33.252",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 73
+    },
+    {
+        "IP": "192.168.34.4",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 74
+    },
+    {
+        "IP": "192.168.34.12",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 76
+    },
+    {
+        "IP": "192.168.34.20",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 80
+    },
+    {
+        "IP": "192.168.34.28",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 81
+    },
+    {
+        "IP": "192.168.34.36",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 82
+    },
+    {
+        "IP": "192.168.34.52",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 85
+    },
+    {
+        "IP": "192.168.34.76",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 88
+    },
+    {
+        "IP": "192.168.34.84",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 89
+    },
+    {
+        "IP": "192.168.34.100",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 91
+    },
+    {
+        "IP": "192.168.34.124",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 94
+    },
+    {
+        "IP": "192.168.34.140",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 96
+    },
+    {
+        "IP": "192.168.34.164",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 99
+    },
+    {
+        "IP": "192.168.34.180",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 102
+    },
+    {
+        "IP": "192.168.34.196",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 105
+    },
+    {
+        "IP": "192.168.35.28",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 116
+    },
+    {
+        "IP": "192.168.35.68",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 121
+    },
+    {
+        "IP": "192.168.35.140",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 130
+    },
+    {
+        "IP": "192.168.36.4",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 145
+    },
+    {
+        "IP": "192.168.37.60",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 185
+    },
+    {
+        "IP": "192.168.37.92",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 189
+    },
+    {
+        "IP": "192.168.40.100",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 286
+    },
+    {
+        "IP": "192.168.40.244",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 304
+    },
+    {
+        "IP": "192.168.41.52",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 312
+    },
+    {
+        "IP": "192.168.41.76",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 315
+    },
+    {
+        "IP": "192.168.41.92",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 317
+    },
+    {
+        "IP": "192.168.41.180",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 328
+    },
+    {
+        "IP": "192.168.41.188",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 329
+    },
+    {
+        "IP": "192.168.41.220",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 333
+    },
+    {
+        "IP": "192.168.41.244",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 336
+    },
+    {
+        "IP": "192.168.42.44",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 343
+    },
+    {
+        "IP": "192.168.42.148",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 356
+    },
+    {
+        "IP": "192.168.42.204",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 363
+    },
+    {
+        "IP": "192.168.42.228",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 366
+    },
+    {
+        "IP": "192.168.43.140",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 387
+    },
+    {
+        "IP": "192.168.43.228",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 399
+    },
+    {
+        "IP": "192.168.43.252",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 402
+    },
+    {
+        "IP": "192.168.44.4",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 403
+    },
+    {
+        "IP": "192.168.44.12",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 404
+    },
+    {
+        "IP": "192.168.44.76",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 412
+    },
+    {
+        "IP": "192.168.44.132",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 419
+    },
+    {
+        "IP": "192.168.46.4",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 468
+    },
+    {
+        "IP": "192.168.46.108",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 481
+    },
+    {
+        "IP": "192.168.46.164",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 488
+    },
+    {
+        "IP": "192.168.47.52",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 507
+    },
+    {
+        "IP": "192.168.47.156",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 520
+    },
+    {
+        "IP": "192.168.47.172",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 522
+    },
+    {
+        "IP": "192.168.47.180",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 523
+    },
+    {
+        "IP": "192.168.47.228",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 529
+    },
+    {
+        "IP": "192.168.47.244",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 531
+    },
+    {
+        "IP": "192.168.47.252",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 532
+    },
+    {
+        "IP": "192.168.48.4",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 533
+    },
+    {
+        "IP": "192.168.48.12",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 534
+    },
+    {
+        "IP": "192.168.48.92",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 544
+    },
+    {
+        "IP": "192.168.48.116",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 547
+    },
+    {
+        "IP": "192.168.48.132",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 549
+    },
+    {
+        "IP": "192.168.48.180",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 555
+    },
+    {
+        "IP": "192.168.48.188",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 556
+    },
+    {
+        "IP": "192.168.48.196",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 557
+    },
+    {
+        "IP": "192.168.48.220",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 560
+    },
+    {
+        "IP": "192.168.48.236",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 562
+    },
+    {
+        "IP": "192.168.48.244",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 563
+    },
+    {
+        "IP": "192.168.49.68",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 574
+    },
+    {
+        "IP": "192.168.49.84",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 577
+    },
+    {
+        "IP": "192.168.49.108",
+        "TIPO": "V",
+        "DISPOSITIVO": "BTN",
+        "POSTE": 581
+    },
+    {
+        "IP": "192.168.32.1",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 1
+    },
+    {
+        "IP": "192.168.32.9",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 2
+    },
+    {
+        "IP": "192.168.32.17",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 3
+    },
+    {
+        "IP": "192.168.32.25",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 4
+    },
+    {
+        "IP": "192.168.32.33",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 5
+    },
+    {
+        "IP": "192.168.32.41",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 6
+    },
+    {
+        "IP": "192.168.32.49",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 7
+    },
+    {
+        "IP": "192.168.32.57",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 8
+    },
+    {
+        "IP": "192.168.32.65",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 9
+    },
+    {
+        "IP": "192.168.32.73",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 11
+    },
+    {
+        "IP": "192.168.32.81",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 12
+    },
+    {
+        "IP": "192.168.32.89",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 13
+    },
+    {
+        "IP": "192.168.32.97",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 14
+    },
+    {
+        "IP": "192.168.32.105",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 15
+    },
+    {
+        "IP": "192.168.32.113",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 16
+    },
+    {
+        "IP": "192.168.32.121",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 17
+    },
+    {
+        "IP": "192.168.32.129",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 18
+    },
+    {
+        "IP": "192.168.32.137",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 19
+    },
+    {
+        "IP": "192.168.32.145",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 21
+    },
+    {
+        "IP": "192.168.32.153",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 22
+    },
+    {
+        "IP": "192.168.32.161",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 23
+    },
+    {
+        "IP": "192.168.32.169",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 24
+    },
+    {
+        "IP": "192.168.32.177",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 25
+    },
+    {
+        "IP": "192.168.32.185",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 27
+    },
+    {
+        "IP": "192.168.32.193",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 28
+    },
+    {
+        "IP": "192.168.32.201",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 29
+    },
+    {
+        "IP": "192.168.32.209",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 30
+    },
+    {
+        "IP": "192.168.32.217",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 31
+    },
+    {
+        "IP": "192.168.32.225",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 33
+    },
+    {
+        "IP": "192.168.32.233",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 34
+    },
+    {
+        "IP": "192.168.32.241",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 35
+    },
+    {
+        "IP": "192.168.32.249",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 36
+    },
+    {
+        "IP": "192.168.33.1",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 37
+    },
+    {
+        "IP": "192.168.33.9",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 38
+    },
+    {
+        "IP": "192.168.33.17",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 39
+    },
+    {
+        "IP": "192.168.33.25",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 40
+    },
+    {
+        "IP": "192.168.33.33",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 41
+    },
+    {
+        "IP": "192.168.33.41",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 43
+    },
+    {
+        "IP": "192.168.33.49",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 44
+    },
+    {
+        "IP": "192.168.33.57",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 45
+    },
+    {
+        "IP": "192.168.33.65",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 46
+    },
+    {
+        "IP": "192.168.33.73",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 47
+    },
+    {
+        "IP": "192.168.33.81",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 48
+    },
+    {
+        "IP": "192.168.33.89",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 49
+    },
+    {
+        "IP": "192.168.33.97",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 50
+    },
+    {
+        "IP": "192.168.33.105",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 51
+    },
+    {
+        "IP": "192.168.33.113",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 52
+    },
+    {
+        "IP": "192.168.33.121",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 53
+    },
+    {
+        "IP": "192.168.33.129",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 55
+    },
+    {
+        "IP": "192.168.33.137",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 56
+    },
+    {
+        "IP": "192.168.33.145",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 57
+    },
+    {
+        "IP": "192.168.33.153",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 58
+    },
+    {
+        "IP": "192.168.33.161",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 59
+    },
+    {
+        "IP": "192.168.33.169",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 60
+    },
+    {
+        "IP": "192.168.33.177",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 61
+    },
+    {
+        "IP": "192.168.33.185",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 62
+    },
+    {
+        "IP": "192.168.33.193",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 66
+    },
+    {
+        "IP": "192.168.33.201",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 67
+    },
+    {
+        "IP": "192.168.33.209",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 68
+    },
+    {
+        "IP": "192.168.33.217",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 69
+    },
+    {
+        "IP": "192.168.33.225",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 70
+    },
+    {
+        "IP": "192.168.33.233",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 71
+    },
+    {
+        "IP": "192.168.33.241",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 72
+    },
+    {
+        "IP": "192.168.33.249",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 73
+    },
+    {
+        "IP": "192.168.34.1",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 74
+    },
+    {
+        "IP": "192.168.34.9",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 76
+    },
+    {
+        "IP": "192.168.34.17",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 80
+    },
+    {
+        "IP": "192.168.34.25",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 81
+    },
+    {
+        "IP": "192.168.34.33",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 82
+    },
+    {
+        "IP": "192.168.34.41",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 83
+    },
+    {
+        "IP": "192.168.34.49",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 85
+    },
+    {
+        "IP": "192.168.34.57",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 86
+    },
+    {
+        "IP": "192.168.34.65",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 87
+    },
+    {
+        "IP": "192.168.34.73",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 88
+    },
+    {
+        "IP": "192.168.34.81",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 89
+    },
+    {
+        "IP": "192.168.34.89",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 90
+    },
+    {
+        "IP": "192.168.34.97",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 91
+    },
+    {
+        "IP": "192.168.34.105",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 92
+    },
+    {
+        "IP": "192.168.34.113",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 93
+    },
+    {
+        "IP": "192.168.34.121",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 94
+    },
+    {
+        "IP": "192.168.34.129",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 95
+    },
+    {
+        "IP": "192.168.34.137",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 96
+    },
+    {
+        "IP": "192.168.34.145",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 97
+    },
+    {
+        "IP": "192.168.34.153",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 98
+    },
+    {
+        "IP": "192.168.34.161",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 99
+    },
+    {
+        "IP": "192.168.34.169",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 101
+    },
+    {
+        "IP": "192.168.34.177",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 102
+    },
+    {
+        "IP": "192.168.34.185",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 103
+    },
+    {
+        "IP": "192.168.34.193",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 105
+    },
+    {
+        "IP": "192.168.34.201",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 106
+    },
+    {
+        "IP": "192.168.34.209",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 107
+    },
+    {
+        "IP": "192.168.34.217",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 108
+    },
+    {
+        "IP": "192.168.34.225",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 109
+    },
+    {
+        "IP": "192.168.34.233",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 110
+    },
+    {
+        "IP": "192.168.34.241",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 111
+    },
+    {
+        "IP": "192.168.34.249",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 112
+    },
+    {
+        "IP": "192.168.35.1",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 113
+    },
+    {
+        "IP": "192.168.35.9",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 114
+    },
+    {
+        "IP": "192.168.35.17",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 115
+    },
+    {
+        "IP": "192.168.35.25",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 116
+    },
+    {
+        "IP": "192.168.35.33",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 117
+    },
+    {
+        "IP": "192.168.35.41",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 118
+    },
+    {
+        "IP": "192.168.35.49",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 119
+    },
+    {
+        "IP": "192.168.35.57",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 120
+    },
+    {
+        "IP": "192.168.35.65",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 121
+    },
+    {
+        "IP": "192.168.35.73",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 122
+    },
+    {
+        "IP": "192.168.35.81",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 123
+    },
+    {
+        "IP": "192.168.35.89",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 124
+    },
+    {
+        "IP": "192.168.35.97",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 125
+    },
+    {
+        "IP": "192.168.35.105",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 126
+    },
+    {
+        "IP": "192.168.35.113",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 127
+    },
+    {
+        "IP": "192.168.35.121",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 128
+    },
+    {
+        "IP": "192.168.35.129",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 129
+    },
+    {
+        "IP": "192.168.35.137",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 130
+    },
+    {
+        "IP": "192.168.35.145",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 131
+    },
+    {
+        "IP": "192.168.35.153",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 132
+    },
+    {
+        "IP": "192.168.35.161",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 133
+    },
+    {
+        "IP": "192.168.35.169",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 134
+    },
+    {
+        "IP": "192.168.35.177",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 135
+    },
+    {
+        "IP": "192.168.35.185",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 136
+    },
+    {
+        "IP": "192.168.35.193",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 137
+    },
+    {
+        "IP": "192.168.35.201",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 138
+    },
+    {
+        "IP": "192.168.35.209",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 139
+    },
+    {
+        "IP": "192.168.35.217",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 140
+    },
+    {
+        "IP": "192.168.35.225",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 141
+    },
+    {
+        "IP": "192.168.35.233",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 142
+    },
+    {
+        "IP": "192.168.35.241",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 143
+    },
+    {
+        "IP": "192.168.35.249",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 144
+    },
+    {
+        "IP": "192.168.36.1",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 145
+    },
+    {
+        "IP": "192.168.36.9",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 146
+    },
+    {
+        "IP": "192.168.36.17",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 147
+    },
+    {
+        "IP": "192.168.36.25",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 148
+    },
+    {
+        "IP": "192.168.36.33",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 149
+    },
+    {
+        "IP": "192.168.36.41",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 150
+    },
+    {
+        "IP": "192.168.36.49",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 151
+    },
+    {
+        "IP": "192.168.36.57",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 152
+    },
+    {
+        "IP": "192.168.36.65",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 153
+    },
+    {
+        "IP": "192.168.36.73",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 154
+    },
+    {
+        "IP": "192.168.36.81",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 155
+    },
+    {
+        "IP": "192.168.36.89",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 156
+    },
+    {
+        "IP": "192.168.36.97",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 157
+    },
+    {
+        "IP": "192.168.36.105",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 158
+    },
+    {
+        "IP": "192.168.36.113",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 159
+    },
+    {
+        "IP": "192.168.36.121",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 160
+    },
+    {
+        "IP": "192.168.36.129",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 161
+    },
+    {
+        "IP": "192.168.36.137",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 162
+    },
+    {
+        "IP": "192.168.36.145",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 163
+    },
+    {
+        "IP": "192.168.36.153",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 164
+    },
+    {
+        "IP": "192.168.36.161",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 165
+    },
+    {
+        "IP": "192.168.36.169",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 166
+    },
+    {
+        "IP": "192.168.36.177",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 167
+    },
+    {
+        "IP": "192.168.36.185",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 168
+    },
+    {
+        "IP": "192.168.36.193",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 169
+    },
+    {
+        "IP": "192.168.36.201",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 170
+    },
+    {
+        "IP": "192.168.36.209",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 171
+    },
+    {
+        "IP": "192.168.36.217",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 172
+    },
+    {
+        "IP": "192.168.36.225",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 173
+    },
+    {
+        "IP": "192.168.36.233",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 174
+    },
+    {
+        "IP": "192.168.36.241",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 175
+    },
+    {
+        "IP": "192.168.36.249",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 177
+    },
+    {
+        "IP": "192.168.37.1",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 178
+    },
+    {
+        "IP": "192.168.37.9",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 179
+    },
+    {
+        "IP": "192.168.37.17",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 180
+    },
+    {
+        "IP": "192.168.37.25",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 181
+    },
+    {
+        "IP": "192.168.37.33",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 182
+    },
+    {
+        "IP": "192.168.37.41",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 183
+    },
+    {
+        "IP": "192.168.37.49",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 184
+    },
+    {
+        "IP": "192.168.37.57",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 185
+    },
+    {
+        "IP": "192.168.37.65",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 186
+    },
+    {
+        "IP": "192.168.37.73",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 187
+    },
+    {
+        "IP": "192.168.37.81",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 188
+    },
+    {
+        "IP": "192.168.37.89",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 189
+    },
+    {
+        "IP": "192.168.37.97",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 190
+    },
+    {
+        "IP": "192.168.37.105",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 191
+    },
+    {
+        "IP": "192.168.37.113",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 192
+    },
+    {
+        "IP": "192.168.37.121",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 193
+    },
+    {
+        "IP": "192.168.37.129",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 194
+    },
+    {
+        "IP": "192.168.37.137",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 195
+    },
+    {
+        "IP": "192.168.37.145",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 196
+    },
+    {
+        "IP": "192.168.37.153",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 197
+    },
+    {
+        "IP": "192.168.37.161",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 198
+    },
+    {
+        "IP": "192.168.37.169",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 199
+    },
+    {
+        "IP": "192.168.37.177",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 200
+    },
+    {
+        "IP": "192.168.37.185",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 201
+    },
+    {
+        "IP": "192.168.37.193",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 202
+    },
+    {
+        "IP": "192.168.37.201",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 203
+    },
+    {
+        "IP": "192.168.37.209",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 204
+    },
+    {
+        "IP": "192.168.37.217",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 205
+    },
+    {
+        "IP": "192.168.37.225",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 206
+    },
+    {
+        "IP": "192.168.37.233",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 207
+    },
+    {
+        "IP": "192.168.37.241",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 208
+    },
+    {
+        "IP": "192.168.37.249",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 209
+    },
+    {
+        "IP": "192.168.38.1",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 210
+    },
+    {
+        "IP": "192.168.38.9",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 211
+    },
+    {
+        "IP": "192.168.38.17",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 212
+    },
+    {
+        "IP": "192.168.38.25",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 213
+    },
+    {
+        "IP": "192.168.38.33",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 214
+    },
+    {
+        "IP": "192.168.38.41",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 215
+    },
+    {
+        "IP": "192.168.38.49",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 216
+    },
+    {
+        "IP": "192.168.38.57",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 217
+    },
+    {
+        "IP": "192.168.38.65",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 218
+    },
+    {
+        "IP": "192.168.38.73",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 219
+    },
+    {
+        "IP": "192.168.38.81",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 220
+    },
+    {
+        "IP": "192.168.38.89",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 221
+    },
+    {
+        "IP": "192.168.38.97",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 222
+    },
+    {
+        "IP": "192.168.38.105",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 223
+    },
+    {
+        "IP": "192.168.38.113",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 224
+    },
+    {
+        "IP": "192.168.38.121",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 225
+    },
+    {
+        "IP": "192.168.38.129",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 226
+    },
+    {
+        "IP": "192.168.38.137",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 227
+    },
+    {
+        "IP": "192.168.38.145",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 228
+    },
+    {
+        "IP": "192.168.38.153",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 229
+    },
+    {
+        "IP": "192.168.38.161",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 230
+    },
+    {
+        "IP": "192.168.38.169",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 231
+    },
+    {
+        "IP": "192.168.38.177",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 232
+    },
+    {
+        "IP": "192.168.38.185",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 233
+    },
+    {
+        "IP": "192.168.38.193",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 234
+    },
+    {
+        "IP": "192.168.38.201",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 235
+    },
+    {
+        "IP": "192.168.38.209",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 236
+    },
+    {
+        "IP": "192.168.38.217",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 237
+    },
+    {
+        "IP": "192.168.38.225",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 238
+    },
+    {
+        "IP": "192.168.38.233",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 239
+    },
+    {
+        "IP": "192.168.38.241",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 240
+    },
+    {
+        "IP": "192.168.38.249",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 241
+    },
+    {
+        "IP": "192.168.39.1",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 242
+    },
+    {
+        "IP": "192.168.39.9",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 243
+    },
+    {
+        "IP": "192.168.39.17",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 244
+    },
+    {
+        "IP": "192.168.39.25",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 245
+    },
+    {
+        "IP": "192.168.39.33",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 246
+    },
+    {
+        "IP": "192.168.39.41",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 247
+    },
+    {
+        "IP": "192.168.39.49",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 248
+    },
+    {
+        "IP": "192.168.39.57",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 249
+    },
+    {
+        "IP": "192.168.39.65",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 250
+    },
+    {
+        "IP": "192.168.39.73",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 251
+    },
+    {
+        "IP": "192.168.39.81",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 252
+    },
+    {
+        "IP": "192.168.39.89",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 253
+    },
+    {
+        "IP": "192.168.39.97",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 254
+    },
+    {
+        "IP": "192.168.39.105",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 255
+    },
+    {
+        "IP": "192.168.39.113",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 256
+    },
+    {
+        "IP": "192.168.39.121",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 257
+    },
+    {
+        "IP": "192.168.39.129",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 258
+    },
+    {
+        "IP": "192.168.39.137",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 259
+    },
+    {
+        "IP": "192.168.39.145",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 260
+    },
+    {
+        "IP": "192.168.39.153",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 261
+    },
+    {
+        "IP": "192.168.39.161",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 262
+    },
+    {
+        "IP": "192.168.39.169",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 263
+    },
+    {
+        "IP": "192.168.39.177",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 264
+    },
+    {
+        "IP": "192.168.39.185",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 265
+    },
+    {
+        "IP": "192.168.39.193",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 266
+    },
+    {
+        "IP": "192.168.39.201",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 267
+    },
+    {
+        "IP": "192.168.39.209",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 268
+    },
+    {
+        "IP": "192.168.39.217",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 269
+    },
+    {
+        "IP": "192.168.39.225",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 270
+    },
+    {
+        "IP": "192.168.39.233",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 271
+    },
+    {
+        "IP": "192.168.39.241",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 272
+    },
+    {
+        "IP": "192.168.39.249",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 273
+    },
+    {
+        "IP": "192.168.40.1",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 274
+    },
+    {
+        "IP": "192.168.40.9",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 275
+    },
+    {
+        "IP": "192.168.40.17",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 276
+    },
+    {
+        "IP": "192.168.40.25",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 277
+    },
+    {
+        "IP": "192.168.40.33",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 278
+    },
+    {
+        "IP": "192.168.40.41",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 279
+    },
+    {
+        "IP": "192.168.40.49",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 280
+    },
+    {
+        "IP": "192.168.40.57",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 281
+    },
+    {
+        "IP": "192.168.40.65",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 282
+    },
+    {
+        "IP": "192.168.40.73",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 283
+    },
+    {
+        "IP": "192.168.40.81",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 284
+    },
+    {
+        "IP": "192.168.40.89",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 285
+    },
+    {
+        "IP": "192.168.40.97",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 286
+    },
+    {
+        "IP": "192.168.40.105",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 287
+    },
+    {
+        "IP": "192.168.40.113",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 288
+    },
+    {
+        "IP": "192.168.40.121",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 289
+    },
+    {
+        "IP": "192.168.40.129",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 290
+    },
+    {
+        "IP": "192.168.40.137",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 291
+    },
+    {
+        "IP": "192.168.40.145",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 292
+    },
+    {
+        "IP": "192.168.40.153",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 293
+    },
+    {
+        "IP": "192.168.40.161",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 294
+    },
+    {
+        "IP": "192.168.40.169",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 295
+    },
+    {
+        "IP": "192.168.40.177",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 296
+    },
+    {
+        "IP": "192.168.40.185",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 297
+    },
+    {
+        "IP": "192.168.40.193",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 298
+    },
+    {
+        "IP": "192.168.40.201",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 299
+    },
+    {
+        "IP": "192.168.40.209",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 300
+    },
+    {
+        "IP": "192.168.40.217",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 301
+    },
+    {
+        "IP": "192.168.40.225",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 302
+    },
+    {
+        "IP": "192.168.40.233",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 303
+    },
+    {
+        "IP": "192.168.40.241",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 304
+    },
+    {
+        "IP": "192.168.40.249",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 305
+    },
+    {
+        "IP": "192.168.41.1",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 306
+    },
+    {
+        "IP": "192.168.41.9",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 307
+    },
+    {
+        "IP": "192.168.41.17",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 308
+    },
+    {
+        "IP": "192.168.41.25",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 309
+    },
+    {
+        "IP": "192.168.41.33",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 310
+    },
+    {
+        "IP": "192.168.41.41",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 311
+    },
+    {
+        "IP": "192.168.41.49",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 312
+    },
+    {
+        "IP": "192.168.41.57",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 313
+    },
+    {
+        "IP": "192.168.41.65",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 314
+    },
+    {
+        "IP": "192.168.41.73",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 315
+    },
+    {
+        "IP": "192.168.41.81",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 316
+    },
+    {
+        "IP": "192.168.41.89",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 317
+    },
+    {
+        "IP": "192.168.41.97",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 318
+    },
+    {
+        "IP": "192.168.41.105",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 319
+    },
+    {
+        "IP": "192.168.41.113",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 320
+    },
+    {
+        "IP": "192.168.41.121",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 321
+    },
+    {
+        "IP": "192.168.41.129",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 322
+    },
+    {
+        "IP": "192.168.41.137",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 323
+    },
+    {
+        "IP": "192.168.41.145",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 324
+    },
+    {
+        "IP": "192.168.41.153",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 325
+    },
+    {
+        "IP": "192.168.41.161",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 326
+    },
+    {
+        "IP": "192.168.41.169",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 327
+    },
+    {
+        "IP": "192.168.41.177",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 328
+    },
+    {
+        "IP": "192.168.41.185",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 329
+    },
+    {
+        "IP": "192.168.41.193",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 330
+    },
+    {
+        "IP": "192.168.41.201",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 331
+    },
+    {
+        "IP": "192.168.41.209",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 332
+    },
+    {
+        "IP": "192.168.41.217",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 333
+    },
+    {
+        "IP": "192.168.41.225",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 334
+    },
+    {
+        "IP": "192.168.41.233",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 335
+    },
+    {
+        "IP": "192.168.41.241",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 336
+    },
+    {
+        "IP": "192.168.41.249",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 337
+    },
+    {
+        "IP": "192.168.42.1",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 338
+    },
+    {
+        "IP": "192.168.42.9",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 339
+    },
+    {
+        "IP": "192.168.42.17",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 340
+    },
+    {
+        "IP": "192.168.42.25",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 341
+    },
+    {
+        "IP": "192.168.42.33",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 342
+    },
+    {
+        "IP": "192.168.42.41",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 343
+    },
+    {
+        "IP": "192.168.42.49",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 344
+    },
+    {
+        "IP": "192.168.42.57",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 345
+    },
+    {
+        "IP": "192.168.42.65",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 346
+    },
+    {
+        "IP": "192.168.42.73",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 347
+    },
+    {
+        "IP": "192.168.42.81",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 348
+    },
+    {
+        "IP": "192.168.42.89",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 349
+    },
+    {
+        "IP": "192.168.42.97",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 350
+    },
+    {
+        "IP": "192.168.42.105",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 351
+    },
+    {
+        "IP": "192.168.42.113",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 352
+    },
+    {
+        "IP": "192.168.42.121",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 353
+    },
+    {
+        "IP": "192.168.42.129",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 354
+    },
+    {
+        "IP": "192.168.42.137",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 355
+    },
+    {
+        "IP": "192.168.42.145",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 356
+    },
+    {
+        "IP": "192.168.42.153",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 357
+    },
+    {
+        "IP": "192.168.42.161",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 358
+    },
+    {
+        "IP": "192.168.42.169",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 359
+    },
+    {
+        "IP": "192.168.42.177",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 360
+    },
+    {
+        "IP": "192.168.42.185",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 361
+    },
+    {
+        "IP": "192.168.42.193",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 362
+    },
+    {
+        "IP": "192.168.42.201",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 363
+    },
+    {
+        "IP": "192.168.42.209",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 364
+    },
+    {
+        "IP": "192.168.42.217",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 365
+    },
+    {
+        "IP": "192.168.42.225",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 366
+    },
+    {
+        "IP": "192.168.42.233",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 367
+    },
+    {
+        "IP": "192.168.42.241",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 368
+    },
+    {
+        "IP": "192.168.42.249",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 369
+    },
+    {
+        "IP": "192.168.43.1",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 370
+    },
+    {
+        "IP": "192.168.43.9",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 371
+    },
+    {
+        "IP": "192.168.43.17",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 372
+    },
+    {
+        "IP": "192.168.43.25",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 373
+    },
+    {
+        "IP": "192.168.43.33",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 374
+    },
+    {
+        "IP": "192.168.43.41",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 375
+    },
+    {
+        "IP": "192.168.43.49",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 376
+    },
+    {
+        "IP": "192.168.43.57",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 377
+    },
+    {
+        "IP": "192.168.43.65",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 378
+    },
+    {
+        "IP": "192.168.43.73",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 379
+    },
+    {
+        "IP": "192.168.43.81",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 380
+    },
+    {
+        "IP": "192.168.43.89",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 381
+    },
+    {
+        "IP": "192.168.43.97",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 382
+    },
+    {
+        "IP": "192.168.43.105",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 383
+    },
+    {
+        "IP": "192.168.43.113",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 384
+    },
+    {
+        "IP": "192.168.43.121",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 385
+    },
+    {
+        "IP": "192.168.43.129",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 386
+    },
+    {
+        "IP": "192.168.43.137",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 387
+    },
+    {
+        "IP": "192.168.43.145",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 388
+    },
+    {
+        "IP": "192.168.43.153",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 389
+    },
+    {
+        "IP": "192.168.43.161",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 391
+    },
+    {
+        "IP": "192.168.43.169",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 392
+    },
+    {
+        "IP": "192.168.43.177",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 393
+    },
+    {
+        "IP": "192.168.43.185",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 394
+    },
+    {
+        "IP": "192.168.43.193",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 395
+    },
+    {
+        "IP": "192.168.43.201",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 396
+    },
+    {
+        "IP": "192.168.43.209",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 397
+    },
+    {
+        "IP": "192.168.43.217",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 398
+    },
+    {
+        "IP": "192.168.43.225",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 399
+    },
+    {
+        "IP": "192.168.43.233",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 400
+    },
+    {
+        "IP": "192.168.43.241",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 401
+    },
+    {
+        "IP": "192.168.43.249",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 402
+    },
+    {
+        "IP": "192.168.44.1",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 403
+    },
+    {
+        "IP": "192.168.44.9",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 404
+    },
+    {
+        "IP": "192.168.44.17",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 405
+    },
+    {
+        "IP": "192.168.44.25",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 406
+    },
+    {
+        "IP": "192.168.44.33",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 407
+    },
+    {
+        "IP": "192.168.44.41",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 408
+    },
+    {
+        "IP": "192.168.44.49",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 409
+    },
+    {
+        "IP": "192.168.44.57",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 410
+    },
+    {
+        "IP": "192.168.44.65",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 411
+    },
+    {
+        "IP": "192.168.44.73",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 412
+    },
+    {
+        "IP": "192.168.44.81",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 413
+    },
+    {
+        "IP": "192.168.44.89",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 414
+    },
+    {
+        "IP": "192.168.44.97",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 415
+    },
+    {
+        "IP": "192.168.44.105",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 416
+    },
+    {
+        "IP": "192.168.44.113",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 417
+    },
+    {
+        "IP": "192.168.44.121",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 418
+    },
+    {
+        "IP": "192.168.44.129",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 419
+    },
+    {
+        "IP": "192.168.44.137",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 420
+    },
+    {
+        "IP": "192.168.44.145",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 421
+    },
+    {
+        "IP": "192.168.44.153",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 422
+    },
+    {
+        "IP": "192.168.44.161",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 423
+    },
+    {
+        "IP": "192.168.44.169",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 424
+    },
+    {
+        "IP": "192.168.44.177",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 425
+    },
+    {
+        "IP": "192.168.44.185",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 426
+    },
+    {
+        "IP": "192.168.44.193",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 427
+    },
+    {
+        "IP": "192.168.44.201",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 428
+    },
+    {
+        "IP": "192.168.44.209",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 429
+    },
+    {
+        "IP": "192.168.44.217",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 430
+    },
+    {
+        "IP": "192.168.44.225",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 431
+    },
+    {
+        "IP": "192.168.44.233",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 432
+    },
+    {
+        "IP": "192.168.44.241",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 433
+    },
+    {
+        "IP": "192.168.44.249",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 434
+    },
+    {
+        "IP": "192.168.45.1",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 435
+    },
+    {
+        "IP": "192.168.45.9",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 436
+    },
+    {
+        "IP": "192.168.45.17",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 437
+    },
+    {
+        "IP": "192.168.45.25",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 438
+    },
+    {
+        "IP": "192.168.45.33",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 439
+    },
+    {
+        "IP": "192.168.45.41",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 440
+    },
+    {
+        "IP": "192.168.45.49",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 442
+    },
+    {
+        "IP": "192.168.45.57",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 443
+    },
+    {
+        "IP": "192.168.45.65",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 444
+    },
+    {
+        "IP": "192.168.45.73",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 445
+    },
+    {
+        "IP": "192.168.45.81",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 446
+    },
+    {
+        "IP": "192.168.45.89",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 447
+    },
+    {
+        "IP": "192.168.45.97",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 448
+    },
+    {
+        "IP": "192.168.45.105",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 449
+    },
+    {
+        "IP": "192.168.45.113",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 450
+    },
+    {
+        "IP": "192.168.45.121",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 451
+    },
+    {
+        "IP": "192.168.45.129",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 452
+    },
+    {
+        "IP": "192.168.45.137",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 453
+    },
+    {
+        "IP": "192.168.45.145",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 454
+    },
+    {
+        "IP": "192.168.45.153",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 455
+    },
+    {
+        "IP": "192.168.45.161",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 456
+    },
+    {
+        "IP": "192.168.45.169",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 457
+    },
+    {
+        "IP": "192.168.45.177",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 458
+    },
+    {
+        "IP": "192.168.45.185",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 459
+    },
+    {
+        "IP": "192.168.45.193",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 460
+    },
+    {
+        "IP": "192.168.45.201",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 461
+    },
+    {
+        "IP": "192.168.45.209",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 462
+    },
+    {
+        "IP": "192.168.45.217",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 463
+    },
+    {
+        "IP": "192.168.45.225",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 464
+    },
+    {
+        "IP": "192.168.45.233",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 465
+    },
+    {
+        "IP": "192.168.45.241",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 466
+    },
+    {
+        "IP": "192.168.45.249",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 467
+    },
+    {
+        "IP": "192.168.46.1",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 468
+    },
+    {
+        "IP": "192.168.46.9",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 469
+    },
+    {
+        "IP": "192.168.46.17",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 470
+    },
+    {
+        "IP": "192.168.46.25",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 471
+    },
+    {
+        "IP": "192.168.46.33",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 472
+    },
+    {
+        "IP": "192.168.46.41",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 473
+    },
+    {
+        "IP": "192.168.46.49",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 474
+    },
+    {
+        "IP": "192.168.46.57",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 475
+    },
+    {
+        "IP": "192.168.46.65",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 476
+    },
+    {
+        "IP": "192.168.46.73",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 477
+    },
+    {
+        "IP": "192.168.46.81",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 478
+    },
+    {
+        "IP": "192.168.46.89",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 479
+    },
+    {
+        "IP": "192.168.46.97",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 480
+    },
+    {
+        "IP": "192.168.46.105",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 481
+    },
+    {
+        "IP": "192.168.46.113",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 482
+    },
+    {
+        "IP": "192.168.46.121",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 483
+    },
+    {
+        "IP": "192.168.46.129",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 484
+    },
+    {
+        "IP": "192.168.46.137",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 485
+    },
+    {
+        "IP": "192.168.46.145",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 486
+    },
+    {
+        "IP": "192.168.46.153",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 487
+    },
+    {
+        "IP": "192.168.46.161",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 488
+    },
+    {
+        "IP": "192.168.46.169",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 489
+    },
+    {
+        "IP": "192.168.46.177",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 490
+    },
+    {
+        "IP": "192.168.46.185",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 491
+    },
+    {
+        "IP": "192.168.46.193",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 492
+    },
+    {
+        "IP": "192.168.46.201",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 493
+    },
+    {
+        "IP": "192.168.46.209",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 494
+    },
+    {
+        "IP": "192.168.46.217",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 496
+    },
+    {
+        "IP": "192.168.46.225",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 497
+    },
+    {
+        "IP": "192.168.46.233",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 498
+    },
+    {
+        "IP": "192.168.46.241",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 499
+    },
+    {
+        "IP": "192.168.46.249",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 500
+    },
+    {
+        "IP": "192.168.47.1",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 501
+    },
+    {
+        "IP": "192.168.47.9",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 502
+    },
+    {
+        "IP": "192.168.47.17",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 503
+    },
+    {
+        "IP": "192.168.47.25",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 504
+    },
+    {
+        "IP": "192.168.47.33",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 505
+    },
+    {
+        "IP": "192.168.47.41",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 506
+    },
+    {
+        "IP": "192.168.47.49",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 507
+    },
+    {
+        "IP": "192.168.47.57",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 508
+    },
+    {
+        "IP": "192.168.47.65",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 509
+    },
+    {
+        "IP": "192.168.47.73",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 510
+    },
+    {
+        "IP": "192.168.47.81",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 511
+    },
+    {
+        "IP": "192.168.47.89",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 512
+    },
+    {
+        "IP": "192.168.47.97",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 513
+    },
+    {
+        "IP": "192.168.47.105",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 514
+    },
+    {
+        "IP": "192.168.47.113",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 515
+    },
+    {
+        "IP": "192.168.47.121",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 516
+    },
+    {
+        "IP": "192.168.47.129",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 517
+    },
+    {
+        "IP": "192.168.47.137",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 518
+    },
+    {
+        "IP": "192.168.47.145",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 519
+    },
+    {
+        "IP": "192.168.47.153",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 520
+    },
+    {
+        "IP": "192.168.47.161",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 521
+    },
+    {
+        "IP": "192.168.47.169",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 522
+    },
+    {
+        "IP": "192.168.47.177",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 523
+    },
+    {
+        "IP": "192.168.47.185",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 524
+    },
+    {
+        "IP": "192.168.47.193",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 525
+    },
+    {
+        "IP": "192.168.47.201",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 526
+    },
+    {
+        "IP": "192.168.47.209",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 527
+    },
+    {
+        "IP": "192.168.47.217",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 528
+    },
+    {
+        "IP": "192.168.47.225",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 529
+    },
+    {
+        "IP": "192.168.47.233",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 530
+    },
+    {
+        "IP": "192.168.47.241",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 531
+    },
+    {
+        "IP": "192.168.47.249",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 532
+    },
+    {
+        "IP": "192.168.48.1",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 533
+    },
+    {
+        "IP": "192.168.48.9",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 534
+    },
+    {
+        "IP": "192.168.48.17",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 535
+    },
+    {
+        "IP": "192.168.48.25",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 536
+    },
+    {
+        "IP": "192.168.48.33",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 537
+    },
+    {
+        "IP": "192.168.48.41",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 538
+    },
+    {
+        "IP": "192.168.48.49",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 539
+    },
+    {
+        "IP": "192.168.48.57",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 540
+    },
+    {
+        "IP": "192.168.48.65",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 541
+    },
+    {
+        "IP": "192.168.48.73",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 542
+    },
+    {
+        "IP": "192.168.48.81",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 543
+    },
+    {
+        "IP": "192.168.48.89",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 544
+    },
+    {
+        "IP": "192.168.48.97",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 545
+    },
+    {
+        "IP": "192.168.48.105",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 546
+    },
+    {
+        "IP": "192.168.48.113",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 547
+    },
+    {
+        "IP": "192.168.48.121",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 548
+    },
+    {
+        "IP": "192.168.48.129",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 549
+    },
+    {
+        "IP": "192.168.48.137",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 550
+    },
+    {
+        "IP": "192.168.48.145",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 551
+    },
+    {
+        "IP": "192.168.48.153",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 552
+    },
+    {
+        "IP": "192.168.48.161",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 553
+    },
+    {
+        "IP": "192.168.48.169",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 554
+    },
+    {
+        "IP": "192.168.48.177",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 555
+    },
+    {
+        "IP": "192.168.48.185",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 556
+    },
+    {
+        "IP": "192.168.48.193",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 557
+    },
+    {
+        "IP": "192.168.48.201",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 558
+    },
+    {
+        "IP": "192.168.48.209",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 559
+    },
+    {
+        "IP": "192.168.48.217",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 560
+    },
+    {
+        "IP": "192.168.48.225",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 561
+    },
+    {
+        "IP": "192.168.48.233",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 562
+    },
+    {
+        "IP": "192.168.48.241",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 563
+    },
+    {
+        "IP": "192.168.48.249",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 564
+    },
+    {
+        "IP": "192.168.49.1",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 565
+    },
+    {
+        "IP": "192.168.49.9",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 566
+    },
+    {
+        "IP": "192.168.49.17",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 567
+    },
+    {
+        "IP": "192.168.49.25",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 568
+    },
+    {
+        "IP": "192.168.49.33",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 569
+    },
+    {
+        "IP": "192.168.49.41",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 570
+    },
+    {
+        "IP": "192.168.49.49",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 571
+    },
+    {
+        "IP": "192.168.49.57",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 573
+    },
+    {
+        "IP": "192.168.49.65",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 574
+    },
+    {
+        "IP": "192.168.49.73",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 575
+    },
+    {
+        "IP": "192.168.49.81",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 577
+    },
+    {
+        "IP": "192.168.49.89",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 579
+    },
+    {
+        "IP": "192.168.49.97",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 580
+    },
+    {
+        "IP": "192.168.49.105",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 581
+    },
+    {
+        "IP": "192.168.49.113",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 583
+    },
+    {
+        "IP": "192.168.49.121",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": 584
+    },
+    {
+        "IP": "192.168.49.129",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": "100A"
+    },
+    {
+        "IP": "192.168.49.137",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": "100B"
+    },
+    {
+        "IP": "192.168.49.145",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": "104A"
+    },
+    {
+        "IP": "192.168.49.153",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": "104B"
+    },
+    {
+        "IP": "192.168.49.161",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": "10A"
+    },
+    {
+        "IP": "192.168.49.169",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": "10B"
+    },
+    {
+        "IP": "192.168.49.177",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": "176A"
+    },
+    {
+        "IP": "192.168.49.185",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": "176B"
+    },
+    {
+        "IP": "192.168.49.193",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": "176C"
+    },
+    {
+        "IP": "192.168.49.201",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": "176D"
+    },
+    {
+        "IP": "192.168.49.209",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": "20A"
+    },
+    {
+        "IP": "192.168.49.217",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": "20B"
+    },
+    {
+        "IP": "192.168.49.225",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": "26A"
+    },
+    {
+        "IP": "192.168.49.233",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": "26B"
+    },
+    {
+        "IP": "192.168.49.241",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": "32A"
+    },
+    {
+        "IP": "192.168.49.249",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": "32B"
+    },
+    {
+        "IP": "192.168.50.1",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": "390A"
+    },
+    {
+        "IP": "192.168.50.9",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": "390B"
+    },
+    {
+        "IP": "192.168.50.17",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": "42A"
+    },
+    {
+        "IP": "192.168.50.25",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": "42B"
+    },
+    {
+        "IP": "192.168.50.33",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": "441A"
+    },
+    {
+        "IP": "192.168.50.41",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": "441B"
+    },
+    {
+        "IP": "192.168.50.49",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": "495A"
+    },
+    {
+        "IP": "192.168.50.57",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": "495B"
+    },
+    {
+        "IP": "192.168.50.65",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": "54A"
+    },
+    {
+        "IP": "192.168.50.73",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": "54B"
+    },
+    {
+        "IP": "192.168.50.81",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": "572A"
+    },
+    {
+        "IP": "192.168.50.89",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": "572B"
+    },
+    {
+        "IP": "192.168.50.97",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": "576A"
+    },
+    {
+        "IP": "192.168.50.105",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": "576B"
+    },
+    {
+        "IP": "192.168.50.113",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": "578A"
+    },
+    {
+        "IP": "192.168.50.121",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": "578B"
+    },
+    {
+        "IP": "192.168.50.129",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": "582A"
+    },
+    {
+        "IP": "192.168.50.137",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": "582B"
+    },
+    {
+        "IP": "192.168.50.145",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": "63A"
+    },
+    {
+        "IP": "192.168.50.153",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": "63B"
+    },
+    {
+        "IP": "192.168.50.161",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": "64A"
+    },
+    {
+        "IP": "192.168.50.169",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": "64B"
+    },
+    {
+        "IP": "192.168.50.177",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": "65A"
+    },
+    {
+        "IP": "192.168.50.185",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": "65B"
+    },
+    {
+        "IP": "192.168.50.193",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": "75A"
+    },
+    {
+        "IP": "192.168.50.201",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": "75B"
+    },
+    {
+        "IP": "192.168.50.209",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": "77A"
+    },
+    {
+        "IP": "192.168.50.217",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": "77B"
+    },
+    {
+        "IP": "192.168.50.225",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": "78A"
+    },
+    {
+        "IP": "192.168.50.233",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": "78B"
+    },
+    {
+        "IP": "192.168.50.241",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": "79A"
+    },
+    {
+        "IP": "192.168.50.249",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": "79B"
+    },
+    {
+        "IP": "192.168.51.1",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": "84A"
+    },
+    {
+        "IP": "192.168.51.9",
+        "TIPO": "VI",
+        "DISPOSITIVO": "GWAY",
+        "POSTE": "84B"
+    }
+]
