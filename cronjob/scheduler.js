@@ -27,7 +27,7 @@ async function updateCameraStatus() {
 
 function startCronJob(io) {
   // Programa el cron job para que se ejecute cada 5 minutos
-  cron.schedule('*/10 * * * *', async () => {
+  cron.schedule('*/20 * * * *', async () => {
     console.log('Cron job iniciado...');
     const data = await updateCameraStatus();
     // Emitir el nuevo estado a todos los clientes conectados

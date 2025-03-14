@@ -146,7 +146,7 @@ async function decodeRTSPStream(rtspUrl) {
     const args = [
       '-rtsp_transport', 'tcp',
       '-i', rtspUrl,
-      '-t', '2',
+      '-t', '3',
       '-f', 'null', '-'
     ];
     const ffmpeg = spawn(ffmpegPath, args);
@@ -240,9 +240,9 @@ async function processAllCameras(cameras, batchSize) {
         const percent = ((state.completed / state.total) * 100).toFixed(2);
         const avgTime = elapsed / state.completed;
         const remaining = avgTime * (state.total - state.completed);
-        process.stdout.write(
-          `Progreso: ${percent}% | Transcurrido: ${formatTime(elapsed)} | Estimado restante: ${formatTime(remaining)}\r`
-        );
+        // process.stdout.write(
+        //   `Progreso: ${percent}% | Transcurrido: ${formatTime(elapsed)} | Estimado restante: ${formatTime(remaining)}\r`
+        // );
         return result;
       })
     );

@@ -10,7 +10,7 @@
     <script src="https://cdn.socket.io/4.5.4/socket.io.min.js"></script>
     <script>
     // Ajusta la URL a la IP y puerto de tu servidor
-    const socket = io("http://192.168.30.57:3000", {
+    const socket = io("http://192.168.30.91:3000", {
       transports: ["websocket"] // Opcional, para forzar websocket
     });
 
@@ -37,7 +37,7 @@
     // Al hacer clic en el botón, solicitamos el estado de las cámaras
     document.getElementById("btn-status").addEventListener("click", () => {
       //socket.emit("getCameraStatus");
-      socket.emit("checkCameraByPoste", "340"); // IP a verificar
+      socket.emit("checkCameraByPoste", "005"); // IP a verificar
     });
   </script>
   </body>
